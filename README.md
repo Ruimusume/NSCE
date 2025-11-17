@@ -16,4 +16,4 @@ It can make using cheats on Switch more convenient.<br>
 - 寻找光玉的悠然 [https://space.bilibili.com/2629261](https://space.bilibili.com/2629261)
 
 ## NSCE Supported Game List / NSCE支持游戏表
-- [Pokémon LEGENDS Z-A/宝可梦传说 Z-A v1.0.2](https://github.com/Ruimusume/NSCE/releases/tag/PLZACheats)
+- [Pokémon LEGENDS Z-A / 宝可梦传说 Z-A v1.0.2](https://github.com/Ruimusume/NSCE/releases/tag/PLZACheats)
