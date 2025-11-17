@@ -1,4 +1,4 @@
-# NSCE
+# Nintendo Switch Cheat Easy
 ![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/NSCE/total.svg)
 
 Nintendo Switch Cheat Easy,It can make using cheats on Switch more convenient.<br>
