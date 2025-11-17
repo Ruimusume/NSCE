@@ -5,11 +5,11 @@ Nintendo Switch Cheat Easy,It can make using cheats on Switch more convenient.<b
 Nintendo Switch Cheat Easy,它能让你在Switch上更加方便的修改作弊。
 
 ## Use / 使用方法
-Requires a hacked Switch console running either [sys-botbase](https://github.com/olliz0r/sys-botbase/releases).<br>
-需要一个破解的Switch主机，并运行[sys-botbase](https://github.com/olliz0r/sys-botbase/releases)。<br>
+1.Requires a hacked Switch console running either [sys-botbase](https://github.com/olliz0r/sys-botbase/releases).<br>
+1.需要一个破解的Switch主机，并运行[sys-botbase](https://github.com/olliz0r/sys-botbase/releases)。<br>
 <br>
-Input the IP address of the Switch link, click on the link to start cheating.<br>
-输入Switch链接的IP地址，点击链接即可开始作弊
+2.Input the IP address of the Switch link, click on the link to start cheating.<br>
+2.输入Switch链接的IP地址，点击链接即可开始作弊
 ## Participants / 制作人员
 - 露易娘 [https://ruisan.blog.jp/](https://ruisan.blog.jp/)
 - Gamer小诚 [https://kook.vip/k1n7ot](https://kook.vip/k1n7ot)
