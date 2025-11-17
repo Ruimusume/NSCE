@@ -8,4 +8,4 @@ Requires a hacked Switch console running either [sys-botbase](https://github.com
 需要一个破解的Switch主机，并运行[sys-botbase](https://github.com/olliz0r/sys-botbase/releases)。
 
 ## NSCE Supported Game List NSCE支持游戏表
-- [宝可梦Z-A v1.0.2](https://github.com/Ruimusume/NSCE/releases/tag/PLZACheats)
+- [Pokémon LEGENDS Z-A/宝可梦传说Z-A v1.0.2](https://github.com/Ruimusume/NSCE/releases/tag/PLZACheats)
