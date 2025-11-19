@@ -15,7 +15,8 @@ It can make using cheats on Switch more convenient.<br>
 - 露易娘 [https://ruisan.blog.jp/](https://ruisan.blog.jp/)
 - Gamer小诚 [https://kook.vip/k1n7ot](https://kook.vip/k1n7ot)
 - 寻找光玉的悠然 [https://space.bilibili.com/2629261](https://space.bilibili.com/2629261)
-##Discussion group Only QQ / 交流群
+## Discussion group Only QQ / 交流群
 QQ：631774369
+<img src="https://github.com/Ruimusume/NSCE/blob/main/img/QQ.png?raw=true">
 ## NSCE List of Game Works / NSCE游戏作品表
 - [Pokémon LEGENDS Z-A / 宝可梦传说 Z-A v1.0.2](https://github.com/Ruimusume/NSCE/releases/tag/PLZACheats)
