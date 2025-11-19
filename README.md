@@ -16,13 +16,12 @@ It can make using cheats on Switch more convenient.<br>
 - Gamer小诚 [https://kook.vip/k1n7ot](https://kook.vip/k1n7ot)
 - 寻找光玉的悠然 [https://space.bilibili.com/2629261](https://space.bilibili.com/2629261)
 ## Discussion group Only QQ / 交流群
-  <table style="text-align: center" width="120">
-    <tr>
-      <td>QQ：631774369</td>
-    </tr>
-    <tr>
-      <td ><img src="https://github.com/Ruimusume/NSCE/blob/main/img/QQ.png?raw=true"></td>
-    </tr>
+<table style="text-align: center" width="150">
+<tr>
+<td>QQ：631774369</td>
+<td><img src="https://github.com/Ruimusume/NSCE/blob/main/img/QQ.png?raw=true"></td>
+<td><a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=cx4SWxtcyivO2R4B3Xr96sEpVVz7gTb6&authKey=3lEvnEqEnvp4OCcGdW0LT29n9BIO4WVqZSRKWvFQ2F6BdDv5ot1HBiSS7lAWoXuD&noverify=0&group_code=631774369">点击加入群聊</a></td>
+</tr>
 </table>
 
 ## NSCE List of Game Works / NSCE游戏作品表
