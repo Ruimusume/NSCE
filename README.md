@@ -11,6 +11,11 @@ It can make using cheats on Switch more convenient.<br>
 2.Input the IP address of the Switch link, click on the link to start cheating.<br>
 2.输入Switch连接的IP地址，点击连接即可开始作弊。<br>
 <img src="https://github.com/Ruimusume/NSCE/blob/main/img/NCCE01.png?raw=true">
+
+## Note / 注意问题
+If you use Noexs for data viewing or testing while the software is running, it will interfere with NSCB. You will need to disconnect Noexs and then connect again with NSCB to regain functionality.<br>
+如果你在软件使用过程中运行了Noexs进行数据查看或测试，NSCE将会失效，你需要断开Noexs再次使用NSCE连接才能继续运行。<br>
+
 ## Participants / 制作人员
 - 露易娘 [https://ruisan.blog.jp/](https://ruisan.blog.jp/)
 - Gamer小诚 [https://kook.vip/k1n7ot](https://kook.vip/k1n7ot)
