@@ -15,6 +15,9 @@ It can make using cheats on Switch more convenient.<br>
 ## Note / 注意问题
 If you use Noexs for data viewing or testing while the software is running, it will interfere with NSCB. You will need to disconnect Noexs and then connect again with NSCB to regain functionality.<br>
 如果你在软件使用过程中运行了Noexs进行数据查看或测试，NSCE将会失效，你需要断开Noexs再次使用NSCE连接才能继续运行。<br>
+<br>
+[sys-botbase插件连接PC端工具报错 无法连接原因 & 解决方法](https://ruisan.blog.jp/archives/28659128.html)<br>
+[sys-botbase插件大气层 2001-0132(0x10801)错误代码解决](https://ruisan.blog.jp/archives/28639971.html)<br>
 
 ## Participants / 制作人员
 - 露易娘 [https://ruisan.blog.jp/](https://ruisan.blog.jp/)
