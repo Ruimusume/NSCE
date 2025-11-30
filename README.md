@@ -20,22 +20,24 @@ If you use Noexs for data viewing or testing while the software is running, it w
 感谢使用！您的捐赠将直接转化为我们持续开发更多游戏修改的动力。<br>
 Thank you for using it! Your donation will directly fuel our ongoing efforts to develop more game cheats.<br>
 
-你可以通过软件界面右上角点击进行捐赠获取一些特殊功能；<br>
-You can click on the top right corner of the software interface to make a donation and obtain some special features;<br>
+- 你可以通过软件界面右上角点击进行捐赠获取一些特殊功能；<br>
+- You can click on the top right corner of the software interface to make a donation and obtain some special features;<br>
 <img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/838786ef-a813-4039-adb2-f1e1b6b8e0c8" /><br>
-捐赠支付界面会有软件特殊功能的使用权时间；<br>
-The donation payment interface will display the usage duration of the software's special features;<br>
+- 捐赠支付界面会有软件特殊功能的使用权时间；<br>
+- The donation payment interface will display the usage duration of the software's special features;<br>
 <img width="725" height="461" alt="image" src="https://github.com/user-attachments/assets/3f2d37cc-3167-48bb-8d7f-48b5a8b0a433" /><br>
-支付后将会自动解锁，免费次数将变成“您已解锁权限!”；<br>
-After payment, it will be automatically unlocked, and the free trial will be changed to "您已解锁权限!";<br>
+- 支付后将会自动解锁，免费次数将变成“您已解锁权限!”；<br>
+- After payment, it will be automatically unlocked, and the free trial will be changed to "您已解锁权限!";<br>
 <img width="175" height="131" alt="image" src="https://github.com/user-attachments/assets/b927f004-68cf-4b68-b46a-821649ad66e2" /><br>
-如果软件更新了，你的使用权限时间还没到，可以点击“恢复使用权限”；<br>
-If the software has been updated and your usage rights have not expired, you can click "恢复使用权限";<br>
+- 如果软件更新了，你的使用权限时间还没到，可以点击“恢复使用权限”；<br>
+- If the software has been updated and your usage rights have not expired, you can click "恢复使用权限";<br>
 <img width="358" height="272" alt="image" src="https://github.com/user-attachments/assets/c1d0b88a-62f5-4490-ba57-bbc3c6e200ca" />
+
 ## Participants / 制作人员
 - 露易娘 [https://ruisan.blog.jp/](https://ruisan.blog.jp/)
 - Gamer小诚 [https://kook.vip/k1n7ot](https://kook.vip/k1n7ot)
 - 寻找光玉的悠然 [https://space.bilibili.com/2629261](https://space.bilibili.com/2629261)
+
 ## Discussion group Only QQ / 交流群
 <table style="text-align: center" width="150">
 <tr>
