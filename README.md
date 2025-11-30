@@ -23,11 +23,10 @@ Thank you for using it! Your donation will directly fuel our ongoing efforts to 
 
 你可以通过软件界面右上角点击进行捐赠获取一些特殊功能；<br>
 You can click on the top right corner of the software interface to make a donation and obtain some special features;<br>
-<img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/f60024ee-fc84-47e1-8714-8006d5d79892" />
-
+<img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/838786ef-a813-4039-adb2-f1e1b6b8e0c8" /><br>
 捐赠支付界面会有软件特殊功能的使用权时间；<br>
 The donation payment interface will display the usage duration of the software's special features;<br>
-<img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/ab99a8d3-c0b3-4b63-a49b-767150404f87" /><br>
+<img width="725" height="461" alt="image" src="https://github.com/user-attachments/assets/3f2d37cc-3167-48bb-8d7f-48b5a8b0a433" /><br>
 支付后将会自动解锁，免费次数将变成“您已解锁权限!”；<br>
 After payment, it will be automatically unlocked, and the free trial will be changed to "您已解锁权限!";<br>
 <img width="175" height="131" alt="image" src="https://github.com/user-attachments/assets/b927f004-68cf-4b68-b46a-821649ad66e2" /><br>
