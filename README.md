@@ -23,7 +23,8 @@ Thank you for using it! Your donation will directly fuel our ongoing efforts to 
 
 你可以通过软件界面右上角点击进行捐赠获取一些特殊功能；<br>
 You can click on the top right corner of the software interface to make a donation and obtain some special features;<br>
-<img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/9b331200-c7f2-4a83-a1a1-78efe8af32bc" /><br>
+<img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/f60024ee-fc84-47e1-8714-8006d5d79892" />
+
 捐赠支付界面会有软件特殊功能的使用权时间；<br>
 The donation payment interface will display the usage duration of the software's special features;<br>
 <img width="725" height="510" alt="image" src="https://github.com/user-attachments/assets/086dffa8-f51d-4e41-9114-268653f885f8" /><br>
