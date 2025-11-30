@@ -1,6 +1,5 @@
 # Nintendo Switch Cheat Easy
 ![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/NSCE/total.svg)
-
 It can make using cheats on Switch more convenient.<br>
 它能让你在Switch上更加方便的修改作弊。
 
