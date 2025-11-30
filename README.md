@@ -1,5 +1,5 @@
 # Nintendo Switch Cheat Easy
-![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/NSCE/total.svg) <img width="86" height="20" alt="image" src="https://github.com/user-attachments/assets/a2b2133c-331b-4427-9c37-30f6eec243d9" /> <br>
+![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/NSCE/total.svg) [<img width="86" height="20" alt="image" src="https://github.com/user-attachments/assets/a2b2133c-331b-4427-9c37-30f6eec243d9" />](https://github.com/Ruimusume/NSCE?tab=readme-ov-file#nsce-list-of-game-works--nsce%E6%B8%B8%E6%88%8F%E4%BD%9C%E5%93%81%E8%A1%A8) <br>
 
 It can make using cheats on Switch more convenient.<br>
 它能让你在Switch上更加方便的修改作弊。
