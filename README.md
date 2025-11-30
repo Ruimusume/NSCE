@@ -27,7 +27,7 @@ You can click on the top right corner of the software interface to make a donati
 
 捐赠支付界面会有软件特殊功能的使用权时间；<br>
 The donation payment interface will display the usage duration of the software's special features;<br>
-<img width="725" height="510" alt="image" src="https://github.com/user-attachments/assets/086dffa8-f51d-4e41-9114-268653f885f8" /><br>
+<img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/ab99a8d3-c0b3-4b63-a49b-767150404f87" /><br>
 支付后将会自动解锁，免费次数将变成“您已解锁权限!”；<br>
 After payment, it will be automatically unlocked, and the free trial will be changed to "您已解锁权限!";<br>
 <img width="175" height="131" alt="image" src="https://github.com/user-attachments/assets/b927f004-68cf-4b68-b46a-821649ad66e2" /><br>
