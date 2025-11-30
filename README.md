@@ -19,6 +19,10 @@ If you use Noexs for data viewing or testing while the software is running, it w
 [sys-botbase插件连接PC端工具报错 无法连接原因 & 解决方法](https://ruisan.blog.jp/archives/28659128.html)<br>
 [sys-botbase插件大气层 2001-0132(0x10801)错误代码解决](https://ruisan.blog.jp/archives/28639971.html)<br>
 
+## Donate / 捐赠相关说明
+感谢使用！您的捐赠将直接转化为我们持续开发的动力。<br>
+
+
 ## Participants / 制作人员
 - 露易娘 [https://ruisan.blog.jp/](https://ruisan.blog.jp/)
 - Gamer小诚 [https://kook.vip/k1n7ot](https://kook.vip/k1n7ot)
