@@ -32,3 +32,5 @@ If you use Noexs for data viewing or testing while the software is running, it w
 
 ## NSCE List of Game Works / NSCE游戏作品表
 - [Pokémon LEGENDS Z-A / 宝可梦传说 Z-A v1.0.3](https://github.com/Ruimusume/NSCE/releases/tag/PLZACheats)
+
+[MIT](./DONATE.md)
