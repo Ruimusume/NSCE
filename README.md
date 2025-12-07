@@ -7,8 +7,11 @@ It can make using cheats on Switch more convenient.<br>
 1.Requires a hacked Switch console running either [sys-botbase](https://github.com/olliz0r/sys-botbase/releases).<br>
 1.需要一个破解的Switch主机，并运行[sys-botbase](https://github.com/olliz0r/sys-botbase/releases)。<br>
 <br>
-2.Input the IP address of the Switch link, click on the link to start cheating.<br>
-2.输入Switch连接的IP地址，点击连接即可开始作弊。<br>
+2.You must first run and open the game!<br>
+2.必须先打开游戏！<br>
+<br>
+3.Input the IP address of the Switch link, click on the link to start cheating.<br>
+3.输入Switch连接的IP地址，点击连接即可开始作弊。<br>
 <img src="https://github.com/Ruimusume/NSCE/blob/main/img/NCCE01.png?raw=true">
 ## Note / 注意问题
 If you use Noexs for data viewing or testing while the software is running, it will interfere with NSCB. You will need to disconnect Noexs and then connect again with NSCB to regain functionality.<br>
