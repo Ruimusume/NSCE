@@ -5,7 +5,7 @@ It can make using cheats on Switch more convenient.<br>
 
 ## Use / 使用方法
 1.Requires a hacked Switch console running either [sys-botbase](https://github.com/olliz0r/sys-botbase/releases).<br>
-1.需要一个破解的Switch主机，并运行[sys-botbase](https://github.com/olliz0r/sys-botbase/releases)。<br>
+1.需要一个破解的Switch主机，并运行[sys-botbase](https://github.com/olliz0r/sys-botbase/releases)，如果你不知道怎么安装可使用[大气层整合包](https://github.com/Ruimusume/Atmosphere-fix/releases/tag/atmosphere_sys-botbase_fix)解决。<br>
 <br>
 2.You must first run and open the game!<br>
 2.必须先打开游戏！<br>
