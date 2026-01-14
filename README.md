@@ -7,11 +7,15 @@ It can make using cheats on Switch more convenient.The full name is Nintendo Swi
 1.Requires a hacked Switch console running either [sys-botbase](https://github.com/olliz0r/sys-botbase/releases).<br>
 1.需要一个破解的Switch主机，并运行[sys-botbase](https://github.com/olliz0r/sys-botbase/releases)，如果你不知道怎么安装可使用[大气层整合包](https://github.com/Ruimusume/Atmosphere-fix/releases/tag/atmosphere_sys-botbase_fix)解决。<br>
 <br>
-2.You must first run and open the game!<br>
-2.必须先打开游戏！<br>
+2.Install .NET Desktop Runtime 9.0 to run the NSCE client.<br>
+2.安装.NET Desktop Runtime 9.0运行NSCE。<br>
+[https://dotnet.microsoft.com/en-us/download/dotnet/9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)<br>
 <br>
-3.Input the IP address of the Switch link, click on the link to start cheating.<br>
-3.输入Switch连接的IP地址，点击连接即可开始作弊。<br>
+3.You must first run and open the game!<br>
+3.必须先打开游戏！<br>
+<br>
+4.Input the IP address of the Switch link, click on the link to start cheating.<br>
+4.输入Switch连接的IP地址，点击连接即可开始作弊。<br>
 <img src="https://github.com/Ruimusume/NSCE/blob/main/img/NCCE01.png?raw=true">
 ## Note / 注意问题
 If you use Noexs for data viewing or testing while the software is running, it will interfere with NSCB. You will need to disconnect Noexs and then connect again with NSCB to regain functionality.<br>
