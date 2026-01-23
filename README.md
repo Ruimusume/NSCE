@@ -1,7 +1,7 @@
 # Nintendo Switch Cheat Easy
 ![DeviceTag](https://img.shields.io/badge/Device-SWITCH-e60012.svg) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/NSCE/total.svg) [<img width="86" height="20" alt="image" src="https://img.shields.io/badge/Game_List-4-34CF58" />](https://github.com/Ruimusume/NSCE/wiki/NSCE-List-of-Game-Works---NSCE%E6%B8%B8%E6%88%8F%E4%BD%9C%E5%93%81%E8%A1%A8) [![NSCE交流群](https://img.shields.io/badge/NSCE交流群-631774369-blue)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=cx4SWxtcyivO2R4B3Xr96sEpVVz7gTb6&authKey=3lEvnEqEnvp4OCcGdW0LT29n9BIO4WVqZSRKWvFQ2F6BdDv5ot1HBiSS7lAWoXuD&noverify=0&group_code=631774369) [<img width="60" height="20" alt="image" src="https://img.shields.io/badge/Donate-orange" />](https://github.com/Ruimusume/NSCE#donate--%E6%8D%90%E8%B5%A0%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E)<br>
 It can make using cheats on Switch more convenient.The full name is Nintendo Switch Cheat Easy, abbreviated as NSCE.<br>
-它能让你在Switch上更加方便的修改作弊。
+它能让你在Switch主机上更加方便的修改作弊。
 
 ## Use / 使用方法
 1.Requires a hacked Switch console running either [sys-botbase](https://github.com/olliz0r/sys-botbase/releases).<br>
