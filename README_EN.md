@@ -4,18 +4,14 @@ It can make using cheats on Switch more convenient.The full name is Nintendo Swi
 
 ## Use
 0.Requires a hacked Switch console running either [sys-botbase](https://github.com/olliz0r/sys-botbase/releases).<br>
-<br>
 1.Download [sys-botbasezip](https://github.com/olliz0r/sys-botbase/releases), extract the file and place it in the Atmosphere folder;<br>
-<br>
 2.Install [.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) to run the NSCE client.<br>
-<br>
 3.You must first run and open the game!<br>
-<br>
 4.Input the IP address of the Switch link, click on the link to start cheating.<br>
 <div align="center"><img src="https://github.com/Ruimusume/NSCE/blob/main/img/NCCE01.png?raw=true"></div>
+
 ## Note / 注意问题
 If you use other software that requires an IP address link, NSCE will become invalid. You need to disconnect from similar software and then reconnect to NSCE.<br>
-<br>
 
 [sys-botbase插件连接PC端工具报错 无法连接原因 & 解决方法](https://ruisan.blog.jp/archives/28659128.html)<br>
 [sys-botbase插件大气层 2001-0132(0x10801)错误代码解决](https://ruisan.blog.jp/archives/28639971.html)<br>
@@ -24,11 +20,14 @@ If you use other software that requires an IP address link, NSCE will become inv
 Thank you for using it! Your donation will directly fuel our ongoing efforts to develop more game cheats.<br>
 
 - You can click on the top right corner of the software interface to make a donation and obtain some special features;<br>
-<div align="center"><img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/838786ef-a813-4039-adb2-f1e1b6b8e0c8" /></div><br>
+<div align="center"><img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/838786ef-a813-4039-adb2-f1e1b6b8e0c8" /></div>
+
 - The donation payment interface will display the usage duration of the software's special features;<br>
-<div align="center"><img width="725" height="461" alt="image" src="https://github.com/user-attachments/assets/3f2d37cc-3167-48bb-8d7f-48b5a8b0a433" /></div><br>
+<div align="center"><img width="725" height="461" alt="image" src="https://github.com/user-attachments/assets/3f2d37cc-3167-48bb-8d7f-48b5a8b0a433" /></div>
+
 - After payment, it will be automatically unlocked, and the free trial will be changed to "您已解锁权限!";<br>
-<div align="center"><img width="175" height="131" alt="image" src="https://github.com/user-attachments/assets/b927f004-68cf-4b68-b46a-821649ad66e2" /></div><br>
+<div align="center"><img width="175" height="131" alt="image" src="https://github.com/user-attachments/assets/b927f004-68cf-4b68-b46a-821649ad66e2" /></div>
+
 - If the software has been updated and your usage rights have not expired, you can click "恢复使用权限";<br>
 <div align="center"><img width="358" height="272" alt="image" src="https://github.com/user-attachments/assets/c1d0b88a-62f5-4490-ba57-bbc3c6e200ca" /></div>
 
