@@ -49,10 +49,8 @@ Thank you for using it! Your donation will directly fuel our ongoing efforts to 
 - 寻找光玉的悠然 [https://space.bilibili.com/2629261](https://space.bilibili.com/2629261)
 
 ## Discussion group Only QQ / 交流群
-<table style="text-align: center" width="150">
-<tr>
-<td>QQ：631774369</td>
+<div align="center"><table style="text-align: center" width="150">
+<tr><td>QQ：631774369</td>
 <td><img src="https://github.com/Ruimusume/NSCE/blob/main/img/QQ.png?raw=true"></td>
-<td><a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=cx4SWxtcyivO2R4B3Xr96sEpVVz7gTb6&authKey=3lEvnEqEnvp4OCcGdW0LT29n9BIO4WVqZSRKWvFQ2F6BdDv5ot1HBiSS7lAWoXuD&noverify=0&group_code=631774369">点击加入群聊</a></td>
-</tr>
-</table>
+<td><a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=cx4SWxtcyivO2R4B3Xr96sEpVVz7gTb6&authKey=3lEvnEqEnvp4OCcGdW0LT29n9BIO4WVqZSRKWvFQ2F6BdDv5ot1HBiSS7lAWoXuD&noverify=0&group_code=631774369">点击加入群聊</a></td></tr>
+</table></div>
