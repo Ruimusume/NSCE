@@ -37,7 +37,7 @@ Thank you for using it! Your donation will directly fuel our ongoing efforts to 
 - Gamer小诚 [https://kook.vip/k1n7ot](https://kook.vip/k1n7ot)
 - 寻找光玉的悠然 [https://space.bilibili.com/2629261](https://space.bilibili.com/2629261)
 
-## Discussion group Only QQ
+## Discussion Group Only QQ
 <div align="center"><table style="text-align: center" width="150">
 <tr><td>QQ：631774369</td>
 <td><img src="https://github.com/Ruimusume/NSCE/blob/main/img/QQ.png?raw=true"></td>
