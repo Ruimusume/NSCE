@@ -4,18 +4,21 @@ It can make using cheats on Switch more convenient.The full name is Nintendo Swi
 它能让你在Switch主机上更加方便的修改作弊。
 
 ## Use / 使用方法
-1.Requires a hacked Switch console running either [sys-botbase](https://github.com/olliz0r/sys-botbase/releases).<br>
-1.需要一个破解的Switch主机，并运行[sys-botbase](https://github.com/olliz0r/sys-botbase/releases)，如果你不知道怎么安装可使用[大气层整合包](https://github.com/Ruimusume/Atmosphere-fix/releases/tag/atmosphere_sys-botbase_fix)解决。<br>
+0.Requires a hacked Switch console running either [sys-botbase](https://github.com/olliz0r/sys-botbase/releases).<br>
+0.需要一个破解的Switch主机，并运行[sys-botbase](https://github.com/olliz0r/sys-botbase/releases)，如果你不知道怎么安装可使用[大气层整合包](https://github.com/Ruimusume/Atmosphere-fix/releases/tag/atmosphere_sys-botbase_fix)解决。<br>
+<br>
+1.下载[sys-botbase.zip](https://github.com/olliz0r/sys-botbase/releases)，解压文件放入大气层文件夹里；<br>
+1.Download [sys-botbasezip](https://github.com/olliz0r/sys-botbase/releases), extract the file and place it in the Atmosphere folder;<br>
 <br>
 2.Install .NET Desktop Runtime 9.0 to run the NSCE client.<br>
-2.安装.NET Desktop Runtime 9.0运行NSCE。<br>
+2.电脑端安装.NET Desktop Runtime 9.0环境运行NSCE。<br>
 [https://dotnet.microsoft.com/en-us/download/dotnet/9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)<br>
 <br>
 3.You must first run and open the game!<br>
 3.必须先打开游戏！<br>
 <br>
 4.Input the IP address of the Switch link, click on the link to start cheating.<br>
-4.输入Switch连接的IP地址，点击连接即可开始作弊。<br>
+4.NSCE上输入Switch连接的IP地址，点击连接即可使用。<br>
 <img src="https://github.com/Ruimusume/NSCE/blob/main/img/NCCE01.png?raw=true">
 ## Note / 注意问题
 If you use Noexs for data viewing or testing while the software is running, it will interfere with NSCB. You will need to disconnect Noexs and then connect again with NSCB to regain functionality.<br>
