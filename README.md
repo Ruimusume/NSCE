@@ -19,7 +19,7 @@ It can make using cheats on Switch more convenient.The full name is Nintendo Swi
 <br>
 4.Input the IP address of the Switch link, click on the link to start cheating.<br>
 4.NSCE上输入Switch连接的IP地址，点击连接即可使用。<br>
-<img src="https://github.com/Ruimusume/NSCE/blob/main/img/NCCE01.png?raw=true">
+<div align="center"><img src="https://github.com/Ruimusume/NSCE/blob/main/img/NCCE01.png?raw=true"></div>
 ## Note / 注意问题
 If you use other software that requires an IP address link, NSCE will become invalid. You need to disconnect from similar software and then reconnect to NSCE.<br>
 如果你使用了需要通过IP地址链接的其他软件，NSCE将会失效，你需要断开同类软件，然后再次链接NSCE。<br>
@@ -32,16 +32,16 @@ Thank you for using it! Your donation will directly fuel our ongoing efforts to 
 
 - 你可以通过软件界面右上角点击进行捐赠获取一些特殊功能；<br>
 - You can click on the top right corner of the software interface to make a donation and obtain some special features;<br>
-<img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/838786ef-a813-4039-adb2-f1e1b6b8e0c8" /><br>
+<div align="center"><img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/838786ef-a813-4039-adb2-f1e1b6b8e0c8" /></div><br>
 - 捐赠支付界面会有软件特殊功能的使用权时间；<br>
 - The donation payment interface will display the usage duration of the software's special features;<br>
-<img width="725" height="461" alt="image" src="https://github.com/user-attachments/assets/3f2d37cc-3167-48bb-8d7f-48b5a8b0a433" /><br>
+<div align="center"><img width="725" height="461" alt="image" src="https://github.com/user-attachments/assets/3f2d37cc-3167-48bb-8d7f-48b5a8b0a433" /></div><br>
 - 支付后将会自动解锁，免费次数将变成“您已解锁权限!”；<br>
 - After payment, it will be automatically unlocked, and the free trial will be changed to "您已解锁权限!";<br>
-<img width="175" height="131" alt="image" src="https://github.com/user-attachments/assets/b927f004-68cf-4b68-b46a-821649ad66e2" /><br>
+<div align="center"><img width="175" height="131" alt="image" src="https://github.com/user-attachments/assets/b927f004-68cf-4b68-b46a-821649ad66e2" /></div><br>
 - 如果软件更新了，你的使用权限时间还没到，可以点击“恢复使用权限”；<br>
 - If the software has been updated and your usage rights have not expired, you can click "恢复使用权限";<br>
-<img width="358" height="272" alt="image" src="https://github.com/user-attachments/assets/c1d0b88a-62f5-4490-ba57-bbc3c6e200ca" />
+<div align="center"><img width="358" height="272" alt="image" src="https://github.com/user-attachments/assets/c1d0b88a-62f5-4490-ba57-bbc3c6e200ca" /></div>
 
 ## Participants / 制作人员
 - 露易娘 [https://ruisan.blog.jp/](https://ruisan.blog.jp/)
