@@ -10,9 +10,8 @@ It can make using cheats on Switch more convenient.The full name is Nintendo Swi
 1.下载[sys-botbase.zip](https://github.com/olliz0r/sys-botbase/releases)，解压文件放入大气层文件夹里；<br>
 1.Download [sys-botbasezip](https://github.com/olliz0r/sys-botbase/releases), extract the file and place it in the Atmosphere folder;<br>
 <br>
-2.Install .NET Desktop Runtime 9.0 to run the NSCE client.<br>
-2.电脑端安装.NET Desktop Runtime 9.0环境运行NSCE。<br>
-[https://dotnet.microsoft.com/en-us/download/dotnet/9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)<br>
+2.Install [.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) to run the NSCE client.<br>
+2.电脑端安装[.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)环境运行NSCE。<br>
 <br>
 3.You must first run and open the game!<br>
 3.必须先打开游戏！<br>
