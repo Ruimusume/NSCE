@@ -21,8 +21,8 @@ It can make using cheats on Switch more convenient.The full name is Nintendo Swi
 4.NSCE上输入Switch连接的IP地址，点击连接即可使用。<br>
 <img src="https://github.com/Ruimusume/NSCE/blob/main/img/NCCE01.png?raw=true">
 ## Note / 注意问题
-If you use Noexs for data viewing or testing while the software is running, it will interfere with NSCB. You will need to disconnect Noexs and then connect again with NSCB to regain functionality.<br>
-如果你在软件使用过程中运行了Noexs进行数据查看或测试，NSCE将会失效，你需要断开Noexs再次使用NSCE连接才能继续运行。<br>
+If you use other software that requires an IP address link, NSCE will become invalid. You need to disconnect from similar software and then reconnect to NSCE.<br>
+如果你使用了需要通过IP地址链接的其他软件，NSCE将会失效，你需要断开同类软件，然后再次链接NSCE。<br>
 <br>
 [sys-botbase插件连接PC端工具报错 无法连接原因 & 解决方法](https://ruisan.blog.jp/archives/28659128.html)<br>
 [sys-botbase插件大气层 2001-0132(0x10801)错误代码解决](https://ruisan.blog.jp/archives/28639971.html)<br>
