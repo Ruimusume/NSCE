@@ -18,6 +18,7 @@ NSCE直连Switch，可以实现即时修改的电脑端工具！
 
 ## 注意问题
 如果你使用了需要通过IP地址链接的其他软件，NSCE将会失效，你需要断开同类软件，然后再次链接NSCE。<br>
+模拟器用户玩家暂不支持，只能Switch主机使用。
 
 [sys-botbase插件连接PC端工具报错 无法连接原因 & 解决方法](https://github.com/Ruimusume/NSCE/wiki/sys%E2%80%90botbase%E6%8F%92%E4%BB%B6%E8%BF%9E%E6%8E%A5PC%E7%AB%AF%E5%B7%A5%E5%85%B7%E6%8A%A5%E9%94%99-%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E5%8E%9F%E5%9B%A0-&-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95)<br>
 [sys-botbase插件大气层 2001-0132(0x10801)错误代码解决](https://github.com/Ruimusume/NSCE/wiki/Switch-2001%E2%80%900132(0x10801)%E9%94%99%E8%AF%AF%E4%BB%A3%E7%A0%81%E8%A7%A3%E5%86%B3)<br>
