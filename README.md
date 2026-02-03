@@ -20,7 +20,7 @@ NSCE直连Switch，可以实现即时修改的电脑端工具！
 如果你使用了需要通过IP地址链接的其他软件，NSCE将会失效，你需要断开同类软件，然后再次链接NSCE。<br>
 
 [sys-botbase插件连接PC端工具报错 无法连接原因 & 解决方法](https://ruisan.blog.jp/archives/28659128.html)<br>
-[sys-botbase插件大气层 2001-0132(0x10801)错误代码解决](https://ruisan.blog.jp/archives/28639971.html)<br>
+[sys-botbase插件大气层 2001-0132(0x10801)错误代码解决]([https://ruisan.blog.jp/archives/28639971.html](https://github.com/Ruimusume/NSCE/wiki/Switch-2001%E2%80%900132(0x10801)%E9%94%99%E8%AF%AF%E4%BB%A3%E7%A0%81%E8%A7%A3%E5%86%B3))<br>
 
 ## 捐赠相关说明
 感谢使用！您的捐赠将直接转化为我们持续开发更多游戏修改的动力。<br>
