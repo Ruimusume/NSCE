@@ -1,0 +1,553 @@
+序号	解包ID序号	English	中文
+1	W_SWD_001	Cypress Stick	柏木棍
+2	W_SWD_002	Oaken Club	橡木棍
+3	W_SWD_003	Copper Sword	铜剑
+4	W_SWD_004	Steel Broadsword	钢铁大剑
+5	W_SWD_005	Cautery Sword	烙铁剑
+6	W_SWD_006	Saw Blade	锯刃
+7	W_SWD_007	Rippled Rapier	波纹刺剑
+8	W_SWD_008	Faerie Foil	妖精细剑
+9	W_SWD_009	Platinum Sword	白金剑
+10	W_SWD_010	Icicle Dirk	冰锥匕首
+11	W_SWD_011	Dream Blade	梦之剑
+12	W_SWD_012	Falcon Blade	隼剑
+13	W_SWD_013	Siren Sword	海妖之剑
+14	W_SWD_014	Zombiesbane	亡灵杀手
+15	W_SWD_015	Dragonsbane	屠龙剑
+16	W_SWD_016	Fire Blade	火焰之剑
+17	W_SWD_017	Sword of the Roamers	流浪者之剑
+18	W_SWD_019	Sunderbolt Blade	裂雷剑
+19	W_SWD_020	Godaeas Sword	戈迪亚斯之剑
+20	W_SWD_021	Miracle Sword	奇迹之剑
+21	W_SWD_022	Blizzard Blade	暴雪剑
+22	W_SWD_023	Bastard Sword	混种剑
+23	W_SWD_024	Sword of Ruin	破灭之剑
+24	W_SWD_025	Double-Edged Sword	双刃剑
+25	W_SWD_026	Kingsblade	王者之刃
+26	W_SWD_027	Sea Serpent Sabre	海蛇弯刀
+27	W_SWD_028	Metal King Sword	金属王剑
+28	W_SWD_029	Okeanos Sword	俄刻阿诺斯之剑
+29	W_SWD_030	Frying Pan	平底锅
+30	W_DGR_001	Bone Stake	骨桩
+31	W_DGR_002	Bronze Knife	青铜小刀
+32	W_DGR_003	Divine Dagger	神圣匕首
+33	W_DGR_004	Poison Moth Knife	毒蛾刀
+34	W_DGR_005	Assassin's Dagger	刺客匕首
+35	W_DGR_006	Poison Needle	毒针
+36	W_DGR_007	Falcon Knife Earrings	隼刃耳饰
+37	W_SPR_001	Bamboo Spear	竹枪
+38	W_SPR_002	Iron Lance	铁枪
+39	W_SPR_003	Holy Lance	神圣枪
+40	W_SPR_004	Demon Spear	恶魔枪
+41	W_AXE_001	Stone Axe	石斧
+42	W_AXE_002	Iron Axe	铁斧
+43	W_AXE_003	Battleaxe	战斧
+44	W_AXE_004	Headsman's Axe	刽子手之斧
+45	W_FAN_001	Stone Fangs	石牙
+46	W_FAN_002	Steel Fangs	钢牙
+47	W_FAN_003	Ferocious Fangs	凶暴獠牙
+48	W_FAN_004	Orichalcum Fangs	奥利哈康牙
+49	W_CLW_001	Iron Claws	铁爪
+50	W_CLW_002	Fire Claws	火焰爪
+51	W_CLW_003	Dragon Claws	龙爪
+52	W_CLW_004	Cobra Claws	眼镜蛇爪
+53	W_CLW_005	Beast Claws	野兽之爪
+54	W_BOO_001	Boomerang	回旋镖
+55	W_BOO_002	Edged Boomerang	利刃回旋镖
+56	W_BOO_003	Flametang Boomerang	火焰回旋镖
+57	W_WHP_001	Thorn Whip	荆棘鞭
+58	W_WHP_002	Leather Whip	皮鞭
+59	W_WHP_003	Chain Whip	锁链鞭
+60	W_WHP_004	Dragontail Whip	龙尾鞭
+61	W_WHP_005	Spiked Steel Whip	刺钢鞭
+62	W_WHP_006	Gringham Whip	格林汉姆鞭
+63	W_WHP_007	Morning Star	晨星
+64	W_WHP_008	Flail of Destruction	破坏之连枷
+65	W_OGI_001	Lunar Fan	月之扇
+66	W_OGI_002	Solar Fan	太阳扇
+67	W_ROD_001	Wizard's Staff	魔法师之杖
+68	W_ROD_002	Staff of Salvation	救赎之杖
+69	W_ROD_003	Lightning Staff	闪电杖
+70	W_ROD_004	Snooze Stick	催眠之杖
+71	W_ROD_005	Staff of Divine Wrath	神罚之杖
+72	W_ROD_006	Staff of Sentencing	审判之杖
+73	W_ROD_007	Staff of Antimagic	封魔杖
+74	W_ROD_008	Rune Staff	符文杖
+75	W_ROD_009	Sage's Staff	贤者之杖
+76	W_ROD_010	Magma Staff	熔岩杖
+77	W_ROD_011	Staff of Resurrection	复活之杖
+78	W_ROD_012	Watermaul Wand	水击魔杖
+79	W_ROD_013	Saviour's Staff	救世主之杖
+80	W_ROD_017	Slime Stick	史莱姆杖
+81	W_HAM_001	Giant Mallet	巨锤
+82	W_HAM_002	Sledgehammer	大锤
+83	W_HAM_003	War Hammer	战锤
+84	W_HAM_004	Hela's Hammer	赫拉之锤
+85	W_FIS_001	Knuckledusters	拳套
+86	S_SHI_001	Pot Lid	锅盖
+87	S_SHI_002	Leather Shield	皮盾
+88	S_SHI_003	Scale Shield	鳞盾
+89	S_SHI_004	Kitty Shield	小猫盾
+90	S_SHI_005	Bronze Shield	青铜盾
+91	S_SHI_006	Iron Shield	铁盾
+92	S_SHI_007	Silver Platter	银盘
+93	S_SHI_008	White Shield	白盾
+94	S_SHI_009	Magic Shield	魔法盾
+95	S_SHI_010	Platinum Shield	白金盾
+96	S_SHI_011	Ice Shield	冰盾
+97	S_SHI_012	Dragon Shield	龙盾
+98	S_SHI_013	Bottlenose Buckler	宽吻海豚盾
+99	S_SHI_014	Tempest Shield	暴风盾
+100	S_SHI_015	Flame Shield	火焰盾
+101	S_SHI_016	Shield of Shame	耻辱之盾
+102	S_SHI_017	Power Shield	力量盾
+103	S_SHI_018	Ogre Shield	食人魔盾
+104	S_SHI_019	Silver Shield	银盾
+105	S_SHI_020	Ruinous Shield	毁灭之盾
+106	S_SHI_021	Aeras Shield	风神盾
+107	S_SHI_022	Metal King Shield	金属王盾
+108	S_SHI_028	Blue Slime Shield	蓝色史莱姆盾
+109	S_SHI_029	Red Slime Shield	红色史莱姆盾
+110	S_SHI_030	Green Slime Shield	绿色史莱姆盾
+111	S_SHI_031	Silver Slime Shield	银色史莱姆盾
+112	B_ARM_001	Plain Clothes	普通衣服
+113	B_ARM_002	Wayfarer's Clothes	旅人之服
+114	B_ARM_003	Silk Tuxedo	丝绸礼服
+115	B_ARM_004	Slime Gooniform	史莱姆混混装
+116	B_ARM_005	Dancer's Costume	舞者装束
+117	B_ARM_006	Noble Garb	贵族服饰
+118	B_ARM_007	Cloak of Evasion	闪避披风
+119	B_ARM_008	Garish Garb	华丽服装
+120	B_ARM_009	Captain's Coat	船长外套
+121	B_ARM_010	Smart Suit	时髦西装
+122	B_ARM_011	Magical Skirt	魔法裙
+123	B_ARM_012	Leather Dress	皮裙
+124	B_ARM_013	Party Dress	宴会礼服
+125	B_ARM_014	Spangled Dress	亮片裙
+126	B_ARM_015	Shimmering Dress	闪烁裙
+127	B_ARM_016	Rags	破布衣
+128	B_ARM_017	Fur Cape	毛皮披风
+129	B_ARM_018	Glombolero	格隆博长袍
+130	B_ARM_019	Dark Robe	黑暗长袍
+131	B_ARM_020	Silk Robe	丝绸长袍
+132	B_ARM_021	Magic Vestment	魔法法衣
+133	B_ARM_022	Legerdemantle	戏法披风
+134	B_ARM_023	Cirrus Surplice	卷云法衣
+135	B_ARM_024	Angel's Robe	天使长袍
+136	B_ARM_025	Vestment of Virtue	美德法衣
+137	B_ARM_026	Flowing Dress	流动裙
+138	B_ARM_027	Princess's Robe	公主长袍
+139	B_ARM_028	Dragon Robe	龙袍
+140	B_ARM_029	Boxer Shorts	拳击短裤
+141	B_ARM_030	Leather Kilt	皮裙
+142	B_ARM_031	Cottontail Costume	棉尾装
+143	B_ARM_032	Angel Leotard	天使紧身衣
+144	B_ARM_033	Silk Bustier	丝绸胸衣
+145	B_ARM_034	Divine Bustier	神圣胸衣
+146	B_ARM_035	Day Off Dress	休息日裙装
+147	B_ARM_036	Iron Cuirass	铁胸甲
+148	B_ARM_037	Silver Cuirass	银胸甲
+149	B_ARM_038	Leather Armour	皮甲
+150	B_ARM_039	Scale Armour	鳞甲
+151	B_ARM_040	Shell Armour	壳甲
+152	B_ARM_041	Chain Mail	锁子甲
+153	B_ARM_042	Bronze Armour	青铜甲
+154	B_ARM_043	Iron Armour	铁甲
+155	B_ARM_044	Tortoise Shell	龟壳
+156	B_ARM_045	Full Plate Armour	全身铠
+157	B_ARM_046	Pillager's Platemail	掠夺者板甲
+158	B_ARM_047	Dancer's Mail	舞者铠甲
+159	B_ARM_048	Silver Mail	银铠甲
+160	B_ARM_049	Magic Armour	魔法铠甲
+161	B_ARM_050	Heavy Armour	重甲
+162	B_ARM_051	Spiked Armour	尖刺甲
+163	B_ARM_052	Enchanted Armour	附魔铠甲
+164	B_ARM_053	Dragon Mail	龙铠
+165	B_ARM_054	Hate Mail	怨恨铠甲
+166	B_ARM_055	Platinum Mail	白金铠甲
+167	B_ARM_056	Flame Armour	火焰甲
+168	B_ARM_057	Slime Armour	史莱姆铠甲
+169	B_ARM_058	Sacred Armour	神圣铠甲
+170	B_ARM_059	Hela's Armour	赫拉铠甲
+171	B_ARM_060	Gigant Armour	巨人铠甲
+172	B_ARM_061	Mirror Armour	镜甲
+173	B_ARM_062	Royal Mail	皇家铠甲
+174	B_ARM_063	Metal King Armour	金属王铠甲
+175	B_ARM_064	Gaia Armour	盖亚铠甲
+176	B_ARM_065	Mink Mantle	貂皮斗篷
+177	B_ARM_066	Pallium Regale	帝王披风
+178	B_ARM_067	Windcheater	防风外套
+179	B_ARM_068	Glitzy Glombolero	华丽格隆博长袍
+180	B_ARM_069	Sacreder Armour	至圣铠甲
+181	H_HEL_001	Leather Hat	皮帽
+182	H_HEL_002	Pointy Hat	尖顶帽
+183	H_HEL_003	Hardwood Headwear	硬木帽
+184	H_HEL_004	Shellmet	壳盔
+185	H_HEL_005	Mad Cap	疯狂帽
+186	H_HEL_006	Fur Hood	毛皮兜帽
+187	H_HEL_007	Canny Cap	伶俐帽
+188	H_HEL_008	Top Hat	高顶礼帽
+189	H_HEL_009	Pirate's Hat	海盗帽
+190	H_HEL_010	Duplic Hat	复制帽
+191	H_HEL_011	Hermes' Hat	赫尔墨斯之帽
+192	H_HEL_012	Happy Hat	幸福帽
+193	H_HEL_013	Hairband	发带
+194	H_HEL_014	Turban	头巾
+195	H_HEL_015	Silver Tiara	银头冠
+196	H_HEL_016	Rabbit Ears	兔耳
+197	H_HEL_017	Iron Helmet	铁头盔
+198	H_HEL_018	Iron Mask	铁面具
+199	H_HEL_019	Pillager's Helmet	掠夺者头盔
+200	H_HEL_020	Platinum Headgear	白金头饰
+201	H_HEL_021	Mythril Helm	秘银头盔
+202	H_HEL_022	Haywire Helm	失控头盔
+203	H_HEL_023	Thinking Cap	思考帽
+204	H_HEL_024	Golden Tiara	黄金头冠
+205	H_HEL_025	Seacow Sallet	海牛盔
+206	H_HEL_026	Great Helm	巨盔
+207	H_HEL_027	Pyros Helm	火焰头盔
+208	H_HEL_028	Metal King Helm	金属王头盔
+209	H_HEL_029	Mask of Implacability	不动面具
+210	H_HEL_030	Sun Crown	太阳王冠
+211	H_HEL_031	Slime Crown	史莱姆王冠
+212	H_HEL_032	Tin Pot	锡罐
+213	H_HEL_033	Raving Mad Cap	狂怒疯狂帽
+214	A_ACC_001	Meteorite Bracer	陨石手镯
+215	A_ACC_002	Kamikazee Bracer	舍身手镯
+216	A_ACC_003	Kerplunk Bracer	同归于尽手镯
+217	A_ACC_004	Gold Bracer	黄金手镯
+218	A_ACC_005	Mighty Armlet	力量臂环
+219	A_ACC_006	Trailblazing Bandana	开拓头带
+220	A_ACC_007	Mercury's Bandana	赫尔墨斯头带
+221	A_ACC_008	Wrecked Specs	破烂眼镜
+222	A_ACC_009	Scholar's Specs	学者眼镜
+223	A_ACC_010	Bow Tie	领结
+224	A_ACC_011	Garter	袜带
+225	A_ACC_012	Fishnet Stockings	渔网袜
+226	A_ACC_013	Glass Slippers	玻璃鞋
+227	A_ACC_014	Elevating Shoes	上升之鞋
+228	A_ACC_015	Prayer Ring	祈祷戒指
+229	A_ACC_016	Strength Ring	力量戒指
+230	A_ACC_017	Life Ring	生命戒指
+231	A_ACC_018	Agility Ring	敏捷戒指
+232	A_ACC_019	Goddess Ring	女神戒指
+233	A_ACC_021	Lucida Shard	光之碎片
+234	A_ACC_022	Pink Pearl	粉红珍珠
+235	A_ACC_023	Rabbit Tail	兔尾
+236	A_ACC_024	Mermaid Moon	人鱼之月
+237	A_ACC_025	Slime Earrings	史莱姆耳饰
+238	A_ACC_026	Ruby of Protection	守护红宝石
+239	A_ACC_027	Earth Amulet	大地护符
+240	A_ACC_028	Fire Amulet	火焰护符
+241	A_ACC_029	Water Amulet	水之护符
+242	A_ACC_030	Air Amulet	风之护符
+243	A_ACC_032	Windbraker	破风之服
+244	A_ACC_033	Champion's Belt	冠军腰带
+245	A_ACC_034	Extra-Elevating Shoes	超级上升之鞋
+246	A_ACC_037	Lucky Pendant	幸运坠饰
+247	A_ACC_039	Fisherman's Rigging	渔夫装备
+248	A_ACC_040	Mini Mayoress Dress	小市长裙
+249	A_ACC_041	Heir Apparel	继承人服装
+250	K_MON_001	Slime Heart	史莱姆之心
+251	K_MON_002	Walking Corpse Heart	行尸之心
+252	K_MON_003	Jawtoise Heart	颚龟之心
+253	K_MON_004	Goodybag Heart	福袋之心
+254	K_MON_005	Kingfuchsia Heart	大王紫杉之心
+255	K_MON_006	Chimaera Heart	奇美拉之心
+256	K_MON_007	Healslime Heart	治愈史莱姆之心
+257	K_MON_008	Mandrake Major Heart	曼陀罗首领之心
+258	K_MON_009	Rockbomb Heart	岩爆之心
+259	K_MON_010	Lips Heart	利普斯之心
+260	K_MON_011	Serial Quiller Heart	连发羽箭怪之心
+261	K_MON_012	Mimic Heart	宝箱怪之心
+262	K_MON_013	Berserker Heart	狂战士之心
+263	K_MON_014	Notso Macho Heart	不猛男之心
+264	K_MON_015	Rashaverak Heart	拉沙维拉克之心
+265	K_MON_016	Malevolantern Heart	邪灯笼之心
+266	K_MON_017	Seasaur Heart	海蜥蜴之心
+267	K_MON_018	Barbatos Heart	巴巴托斯之心
+268	K_MON_019	Delusionist Heart	幻惑师之心
+269	K_MON_020	Drake Slime Heart	龙史莱姆之心
+270	K_MON_021	Dingbat Heart	小蝙蝠之心
+271	K_MON_022	Draguar Heart	石像鬼之心
+272	K_MON_023	Bone Baron Heart	骸骨贵族之心
+273	K_MON_024	Automaton Heart	自动机械之心
+274	K_MON_025	Golem Heart	巨像兵之心
+275	K_MON_026	Beastly Priest Heart	兽人牧师之心
+276	K_MON_027	Djinn Genie Heart	灯神之心
+277	K_MON_028	Gripevine Heart	怨念葡萄藤之心
+278	K_MON_029	Gigalumph Heart	巨跳跳之心
+279	K_MON_030	Platinum King Heart	白金王之心
+280	K_MON_031	Ersatz Estark Heart	伪艾斯塔克之心
+281	K_MON_032	Prism Peacock Heart	幻彩孔雀之心
+282	K_MON_033	Slaughtomaton Heart	屠杀机兵之心
+283	K_MON_034	Hero's Heart	勇者之心
+284	K_MON_035	Well Wisher Heart	祈愿者之心
+285	K_MON_036	Slime Knight Heart	史莱姆骑士之心
+286	K_MON_037	Great Sabrecat Heart	巨大杀人豹之心
+287	K_MON_038	Bodkin Archer Heart	尖兵射手之心
+288	K_MON_039	Hammerhood Heart	锤头熊之心
+289	K_MON_040	Meowgician Heart	喵法师之心
+290	K_MON_041	Cactiball Heart	仙人球之心
+291	I_USE_001	Medicinal Herb	药草
+292	I_USE_002	Strong Medicine	强效药草
+293	I_USE_003	Special Medicine	特效药草
+294	I_USE_004	Pilchard Crackers	沙丁鱼饼干
+295	I_USE_005	Pilchard Pie	沙丁鱼派
+296	I_USE_006	Antidotal Herb	解毒草
+297	I_USE_007	Moonwort Bulb	月桂树草
+298	I_USE_008	Single Phial	小瓶
+299	I_USE_009	Magic Water	魔法圣水
+300	I_USE_010	Elfin Elixir	精灵药
+301	I_USE_011	Yggdrasil Leaf	世界树之叶
+302	I_USE_012	Yggdrasil Dew	世界树之露
+303	I_USE_013	Chimaera Wing	奇美拉之翼
+304	I_USE_014	Holy Water	圣水
+305	I_USE_015	Coagulant	止血草
+306	I_USE_017	Salvation Stone	救赎之石
+307	I_USE_018	Sage's Stone	贤者之石
+308	I_USE_019	Dieamend	钻石
+309	I_USE_021	Horse Manure	马粪
+310	I_SEE_001	Seed of Life	生命种子
+311	I_SEE_002	Seed of Magic	魔法种子
+312	I_SEE_003	Seed of Strength	力量种子
+313	I_SEE_004	Seed of Deftness	灵巧种子
+314	I_SEE_005	Seed of Agility	敏捷种子
+315	I_SEE_006	Seed of Resilience	韧性种子
+316	I_SEE_008	Seed of Sorcery	魔力种子
+317	I_SEE_009	Seed of Therapeusis	治愈种子
+318	I_SEE_010	Pretty Betsy	美丽贝茜
+319	I_SEE_011	Super Seed of Life	超级生命种子
+320	I_SEE_012	Super Seed of Magic	超级魔法种子
+321	I_SEE_013	Super Seed of Strength	超级力量种子
+322	I_SEE_014	Super Seed of Deftness	超级灵巧种子
+323	I_SEE_015	Super Seed of Agility	超级敏捷种子
+324	I_SEE_016	Super Seed of Resilience	超级韧性种子
+325	I_SEE_018	Super Seed of Sorcery	超级魔力种子
+326	I_SEE_019	Super Seed of Therapeusis	超级治愈种子
+327	I_SEE_020	Super Pretty Betsy	超级美丽贝茜
+328	D_SNR_001	Pilchard Sandwich	沙丁鱼三明治
+329	D_SNR_002	Fish Bits	鱼块
+330	D_SNR_003	Ancient Tome	古代典籍
+331	D_SNR_005	Sizzling Stone	灼热之石
+332	D_SNR_006	Saint's Sword	圣者之剑
+333	D_SNR_007	Saint's Armour	圣者铠甲
+334	D_SNR_008	Saint's Shield	圣者盾
+335	D_SNR_009	Saint's Helm	圣者头盔
+336	D_SNR_010	Wooden Doll	木偶
+337	D_SNR_011	Green Gem	绿色宝石
+338	D_SNR_012	Wholly Holy Water	神圣圣水
+339	D_SNR_013	Empty Bottle	空瓶
+340	D_SNR_014	Prism Dew	虹之露
+341	D_SNR_015	Little Blue Button	小蓝按钮
+342	D_SNR_016	Angel's Tears	天使之泪
+343	D_SNR_017	Globular Pistotron	球形机器人
+344	D_SNR_018	Blueprints and Spare Part	蓝图与备用零件
+345	D_SNR_019	Palmela's Prescription	帕梅拉的处方
+346	D_SNR_020	Spirit of the Dance	舞之魂
+347	D_SNR_021	Chimes of the Chosen	选定之钟
+348	D_SNR_022	Kiefer's Letter	基法的信
+349	D_SNR_023	Career Sphere	职业之球
+350	D_SNR_024	Flying Carpet	飞毯
+351	D_SNR_025	Flying Carpet	飞毯
+352	D_SNR_026	Seal of the Sands	沙之印章
+353	D_SNR_028	Queen's Letter	女王的信
+354	D_SNR_029	Ancient Skull	古代头骨
+355	D_SNR_030	Serpent's Skull	蛇之头骨
+356	D_SNR_031	Blood Ruby	血红宝石
+357	D_SNR_032	Letter of Amity	友好书信
+358	D_SNR_033	Care Package	慰问包裹
+359	D_SNR_038	Dubious Concoction	可疑混合剂
+360	D_SNR_039	Greta's Letter	格雷塔的信
+361	D_SNR_041	Queen Mother's Missive	王母的信函
+362	D_SNR_042	Wizz's Seal of Approval	威兹的认可印章
+363	D_SNR_043	Torban of Truth	真实之布
+364	D_SNR_044	Starshard	星之碎片
+365	D_SNR_048	Sacred Stone	神圣之石
+366	D_SNR_049	Worn Stone Tablet	磨损的石板
+367	D_SNR_050	Glowmoss	发光苔藓
+368	D_SNR_052	Guiding Light	引导之光
+369	D_SNR_053	Sparkling Holy Water	闪亮圣水
+370	D_SNR_054	Skystone	天空石
+371	D_SNR_056	Eye Stones	眼之石
+372	D_SNR_057	Mouth Stone	口之石
+373	D_SNR_058	Heart Stone	心之石
+374	D_SNR_059	Ear Stones	耳之石
+375	D_SNR_060	Nose Stone	鼻之石
+376	D_SNR_061	Aeolus Globe	风神球
+377	D_SNR_062	Shattered Stone Tablet	碎裂的石板
+378	D_KEY_001	Ancient Key	古代钥匙
+379	D_KEY_002	Thief's Key	盗贼钥匙
+380	D_KEY_003	Alltrades Key	转职钥匙
+381	D_KEY_004	Bandit's Key	盗匪钥匙
+382	D_KEY_006	Black Key	黑钥匙
+383	D_KEY_008	Magic Key	魔法钥匙
+384	D_KEY_010	Sulkk Key	萨尔克钥匙
+385	D_KEY_011	Conflagration Key	业火钥匙
+386	D_KEY_012	Royal Key	皇家钥匙
+387	D_KEY_013	Multipleximus Key	多重迷宫钥匙
+388	D_KEY_014	Ultimate Key	终极钥匙
+389	D_KEY_015	Collar Key	项圈钥匙
+390	D_STO_Y01_01	Yellow Fragment	黄色碎片
+391	D_STO_Y01_02	Yellow Fragment	黄色碎片
+392	D_STO_Y01_03	Yellow Fragment	黄色碎片
+393	D_STO_Y01_04	Yellow Fragment	黄色碎片
+394	D_STO_Y02_01	Yellow Fragment	黄色碎片
+395	D_STO_Y02_02	Yellow Fragment	黄色碎片
+396	D_STO_Y02_03	Yellow Fragment	黄色碎片
+397	D_STO_Y02_04	Yellow Fragment	黄色碎片
+398	D_STO_Y03_01	Yellow Fragment	黄色碎片
+399	D_STO_Y03_02	Yellow Fragment	黄色碎片
+400	D_STO_Y03_03	Yellow Fragment	黄色碎片
+401	D_STO_Y03_04	Yellow Fragment	黄色碎片
+402	D_STO_G01_01	Green Fragment	绿色碎片
+403	D_STO_G01_02	Green Fragment	绿色碎片
+404	D_STO_G01_03	Green Fragment	绿色碎片
+405	D_STO_G01_04	Green Fragment	绿色碎片
+406	D_STO_G02_01	Green Fragment	绿色碎片
+407	D_STO_G02_02	Green Fragment	绿色碎片
+408	D_STO_G02_03	Green Fragment	绿色碎片
+409	D_STO_G02_04	Green Fragment	绿色碎片
+410	D_STO_R01_01	Red Fragment	红色碎片
+411	D_STO_R01_02	Red Fragment	红色碎片
+412	D_STO_R01_03	Red Fragment	红色碎片
+413	D_STO_R02_01	Red Fragment	红色碎片
+414	D_STO_R02_02	Red Fragment	红色碎片
+415	D_STO_R02_03	Red Fragment	红色碎片
+416	D_STO_R02_04	Red Fragment	红色碎片
+417	D_STO_R03_01	Red Fragment	红色碎片
+418	D_STO_R03_02	Red Fragment	红色碎片
+419	D_STO_R03_03	Red Fragment	红色碎片
+420	D_STO_B01_01	Blue Fragment	蓝色碎片
+421	D_STO_B01_02	Blue Fragment	蓝色碎片
+422	D_STO_B01_03	Blue Fragment	蓝色碎片
+423	D_STO_B02_01	Blue Fragment	蓝色碎片
+424	D_STO_B02_02	Blue Fragment	蓝色碎片
+425	D_STO_B02_03	Blue Fragment	蓝色碎片
+426	D_STO_B02_04	Blue Fragment	蓝色碎片
+427	D_STO_B03_01	Blue Fragment	蓝色碎片
+428	D_STO_B03_02	Blue Fragment	蓝色碎片
+429	D_STO_B03_03	Blue Fragment	蓝色碎片
+430	D_STO_H01_01	Grey Fragment	灰色碎片
+431	D_STO_H02_01	Grey Fragment	灰色碎片
+432	D_STO_H02_02	Grey Fragment	灰色碎片
+433	D_STO_H02_03	Grey Fragment	灰色碎片
+434	D_STO_H02_04	Grey Fragment	灰色碎片
+435	D_STO_H03_01	Grey Fragment	灰色碎片
+436	D_STO_H03_02	Grey Fragment	灰色碎片
+437	D_STO_H03_03	Grey Fragment	灰色碎片
+438	D_STO_H03_04	Grey Fragment	灰色碎片
+439	D_STO_H04_01	Grey Fragment	灰色碎片
+440	D_STO_H04_02	Grey Fragment	灰色碎片
+441	D_STO_H04_03	Grey Fragment	灰色碎片
+442	D_STO_E01_01	Turquoise Fragment	青绿色碎片
+443	D_STO_E01_02	Turquoise Fragment	青绿色碎片
+444	D_STO_E01_03	Turquoise Fragment	青绿色碎片
+445	D_STO_L01_01	Black Fragment	黑色碎片
+446	D_STO_L01_02	Black Fragment	黑色碎片
+447	D_STO_L01_03	Black Fragment	黑色碎片
+448	D_STO_W01_01	Curious Fragment	奇异碎片
+449	D_STO_S01_01	Silver Fragment	银色碎片
+450	D_STO_S01_02	Silver Fragment	银色碎片
+451	D_STO_S01_03	Silver Fragment	银色碎片
+452	D_STO_S01_04	Silver Fragment	银色碎片
+453	D_STO_K01_01	Gold Fragment	金色碎片
+454	D_STO_K01_02	Gold Fragment	金色碎片
+455	D_STO_K01_03	Gold Fragment	金色碎片
+456	D_STO_K01_04	Gold Fragment	金色碎片
+457	D_STO_K01_05	Gold Fragment	金色碎片
+458	D_STO_K01_06	Gold Fragment	金色碎片
+459	D_STO_K01_07	Gold Fragment	金色碎片
+460	D_STO_K01_08	Gold Fragment	金色碎片
+461	D_MED_001	Mini Medal	小奖牌
+462	D_OTH_029	Tombola Ticket	抽奖券
+463	D_KEY_016	Trial Key	试炼钥匙
+464	D_SNR_064	Bottle of Water	水瓶
+465	D_SNR_063	Empty Bottle	空瓶
+466	D_OTH_028	VIP Pass	VIP通行证
+467	I_SEE_021	Seed of Proficiency	熟练种子
+468	S_SHI_033	Liquid Metal Shield	液体金属盾
+469	S_SHI_032	Metal Slime Shield	金属史莱姆盾
+470	W_ROD_024	Faerie King's Cane	妖精王之杖
+471	W_ROD_023	Butterfly Baton	蝴蝶指挥棒
+472	W_ROD_022	Pixie Pole	妖精之杖
+473	W_ROD_021	Staff of Eternity	永恒之杖
+474	W_ROD_020	Sacrosanct Staff	神圣杖
+475	W_ROD_019	Siren's Staff	海妖之杖
+476	W_ROD_018	Shiverstick	寒颤杖
+477	W_OGI_005	Rose-Tinted Spectaculars	玫瑰色幻视扇
+478	W_OGI_004	Dryspell Fan	干旱扇
+479	W_OGI_003	Stellar Fan	星辰扇
+480	W_WHP_011	Über Gringham Whip	超级格林汉姆鞭
+481	W_WHP_010	Beastly Bullwhip	兽性长鞭
+482	W_BOO_006	Metal King Goomerang	金属王回旋镖
+483	W_BOO_005	Liquid Metal Goomerang	液体金属回旋镖
+484	W_BOO_004	Metal Goomerang	金属回旋镖
+485	W_CLW_006	Monster Slashers	魔物斩裂爪
+486	W_AXE_005	Bad Axe	凶恶斧
+487	W_SPR_006	Heaven's Talon	天之爪
+488	W_SPR_005	Platinum Lance	白金枪
+489	W_DGR_009	Dread Dagger	恐惧匕首
+490	W_SWD_036	Aurora Blade	极光之刃
+491	W_SWD_035	Liquid Metal Sword	液体金属剑
+492	W_SWD_034	Metal Slime Sword	金属史莱姆之剑
+493	W_SWD_033	Supernova Sword	超新星之剑
+494	W_SWD_032	Hypernova Sword	超新星之剑
+495	D_STO_H02_05	Missing Fragment	缺失的碎片
+496	K_MON_070	Infanticore Heart	婴幼狮鹫之心
+497	K_MON_069	Wight Watchman Heart	骸骨守卫之心
+498	K_MON_068	Metal King Slime Heart	金属王史莱姆之心
+499	K_MON_067	Liquid Metal Slime Heart	液体金属史莱姆之心
+500	K_MON_066	Hypothermion Heart	寒冰巨灵之心
+501	K_MON_065	Drakulard Heart	吸血子爵之心
+502	K_MON_064	Xenlon Heart	神龙之心
+503	K_MON_063	Grody Gumpdrops Heart	污秽的泥块之心
+504	K_MON_062	Dragster Heart	疾风龙之心
+505	K_MON_061	Green Dragon Heart	绿龙之心
+506	K_MON_060	Mud Mannequin Heart	泥人偶之心
+507	K_MON_059	Very Devil Heart	大恶魔之心
+508	K_MON_058	Little Devil Heart	小恶魔之心
+509	K_MON_057	Swagman Heart	劫掠者之心
+510	K_MON_056	Goon Heart	混混之心
+511	K_MON_055	Troll Heart	巨魔之心
+512	K_MON_054	Togre Heart	食人魔之心
+513	K_MON_053	Admirer Heart	仰慕者之心
+514	K_MON_052	Cyclops Heart	独眼巨人之心
+515	K_MON_051	Scrapper Heart	斗士之心
+516	K_MON_050	Fright Knight Heart	恐怖骑士之心
+517	K_MON_049	Skeleton Swordsman Heart	骸骨剑士之心
+518	K_MON_048	Numen Heart	神性存在之心
+519	K_MON_047	Time Being Heart	时间守护者之心
+520	K_MON_046	Gold Golem Heart	黄金巨像兵之心
+521	K_MON_045	Vis Mager Heart	魔法大师之心
+522	K_MON_044	Brownie Heart	布朗尼之心
+523	K_MON_043	Metal Slime Heart	金属史莱姆之心
+524	K_MON_042	Bubble Slime Heart	泡沫史莱姆之心
+525	S_SHI_034	Erdrick's Shield	洛特之盾
+526	W_SWD_038	Erdrick's Sword	洛特之剑
+527	W_SWD_037	Sir Mervyn's Sword	梅尔文爵士之剑
+528	H_HEL_034	Steel Helmet	钢头盔
+529	A_ACC_042	Wolfwear	狼装
+530	A_ACC_043	Attire of the Order	骑士团装束
+531	A_ACC_044	Roamer's Raiment	流浪者装束
+532	A_ACC_045	Luminary's Livery	光之使者装束
+533	A_ACC_046	Red Sisterly Smock	红色修女服
+534	A_ACC_047	Green Sisterly Smock	绿色修女服
+535	A_ACC_048	Spiky Sidekick's Costume	尖刺搭档装
+536	A_ACC_049	Fully Fabulous Finery	华丽盛装
+537	A_ACC_050	Auld Rogue's Outfit	老盗贼装
+538	A_ACC_051	Warrior Princess Wardrobe	战公主装束
+539	K_MON_071	Clawcerer Heart	爪法师之心
+540	K_MON_072	Cureslime Heart	祝福史莱姆之心
+541	D_SNR_065	Letter to the King	致国王的信
+542	D_OTH_001	Medal Album	勋章收集册
+543	W_SWD_039	Slime Sword	史莱姆之剑
+544	W_BOO_007	Slime Boomerang	史莱姆回旋镖
+545	A_ACC_052	Trodain Togs	特鲁内克装
+546	A_ACC_053	Day Off Dress	休息日裙装
+547	A_ACC_054	White Wolf Costume	白狼装
+548	D_SNR_066	Sunstone Ring	太阳石戒指
+549	K_MON_073	Dragonlord Heart	龙王之心
+550	K_MON_074	Malroth Heart	破坏神之心
+551	K_MON_075	Zoma Heart	佐玛之心
+552	W_SWD_040	Supreme Sea Serpent Sabre	至尊海蛇剑
