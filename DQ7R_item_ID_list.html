@@ -73,11 +73,90 @@
     margin: 20px 0 10px 0;
     color: #2c3e50;
 }
+	  /* 地址容器 */
+  .address-container {
+    background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%);
+    border-left: 6px solid #4a6fa5;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    transition: all 0.3s ease;
+  }
+
+  .address-container:hover {
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+
+  /* 主标题 */
+  .address-title {
+    font-size: 22px;
+    font-weight: 800;
+    color: #2c3e50;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 2px dashed #c8d6e5;
+  }
+
+  /* 副标题（日文、英文） */
+  .address-subtitle {
+    font-size: 15px;
+    color: #546e7a;
+    margin: 6px 0;
+    line-height: 1.5;
+    font-weight: 500;
+  }
+
+  /* 地址代码块 */
+  .address-code {
+    background-color: #2d3436;
+    color: #dfe6e9;
+    font-family: 'Courier New', monospace;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 18px;
+    margin: 20px 0;
+    border-radius: 10px;
+    border: 1px solid #4a4a4a;
+    text-align: center;
+    letter-spacing: 0.5px;
+    overflow-x: auto;
+    white-space: nowrap;
+    box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.5);
+  }
+
+  /* 提示文本 */
+  .address-note {
+    font-size: 14px;
+    color: #7f8c8d;
+    font-style: italic;
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid #dcdde1;
+    text-align: center;
+  }
+
+  /* 响应式优化 */
+  @media (max-width: 768px) {
+    .address-code {
+      font-size: 16px;
+      padding: 14px;
+    }
+    .address-title {
+      font-size: 20px;
+    }
+    .address-subtitle {
+      font-size: 14px;
+    }
+  }
 </style>
 </body>
 <div class="table-container">
   <div class="table-caption">DRAGON QUEST VII Reimagined item ID by Ruimusume（露易娘）</div>
-  <div>由于游戏会因为每个人的版本、存档以及进度导致道具ID有所变化。<br>
+  <div class="address-container">由于游戏会因为每个人的版本、存档以及进度导致道具ID有所变化。<br>
     所以此页面用来查找当下的道具ID所用。<br>
     Switch用指针，这是用来抓取道具ID代码的指针。<br>
     <br>
@@ -88,6 +167,12 @@
     Due to the game, item IDs may change depending on each player's version, save, and progress.<br>
     So this page is used to search for the current item ID.<br>
     Switch pointers, which are used to capture item ID codes.</div>
+</div>
+<div class="address-container">
+  <div class="address-title">渔村杂货店道具修改（草药）地址</div>
+  <div class="address-subtitle">フィッシュベル村よろず屋アイテム改造(やくそう) ポインタアドレス<br>
+    Pilchard Bay General Store item Modification (Medicinal Herb) Pointer Address</div>
+  <div class="address-code">[[[[[[main+07288C58]+250]+38]+878]+30]+08]+60</div>
 </div>
 <table class="dq7r-table">
   <tr>
@@ -4065,6 +4150,86 @@
     <td>VIP Pass</td>
     <td>[[[[main+7288C58]+1F0]+30]+30]+2E68</td>
     <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/433.png?raw=true" height="128"></td>
+  </tr>
+  <tr>
+    <td>496</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[[[[main+7288C58]+1F0]+30]+30]+2E80</td>
+    <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/" height="128"></td>
+  </tr>
+  <tr>
+    <td>497</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[[[[main+7288C58]+1F0]+30]+30]+2E98</td>
+    <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/" height="128"></td>
+  </tr>
+  <tr>
+    <td>498</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[[[[main+7288C58]+1F0]+30]+30]+2EB0</td>
+    <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/" height="128"></td>
+  </tr>
+  <tr>
+    <td>499</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[[[[main+7288C58]+1F0]+30]+30]+2EC8</td>
+    <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/" height="128"></td>
+  </tr>
+  <tr>
+    <td>500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[[[[main+7288C58]+1F0]+30]+30]+2EE0</td>
+    <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/" height="128"></td>
+  </tr>
+  <tr>
+    <td>501</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[[[[main+7288C58]+1F0]+30]+30]+2EF8</td>
+    <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/" height="128"></td>
+  </tr>
+  <tr>
+    <td>502</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[[[[main+7288C58]+1F0]+30]+30]+2F10</td>
+    <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/" height="128"></td>
+  </tr>
+  <tr>
+    <td>503</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[[[[main+7288C58]+1F0]+30]+30]+2F28</td>
+    <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/" height="128"></td>
+  </tr>
+  <tr>
+    <td>504</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[[[[main+7288C58]+1F0]+30]+30]+2F40</td>
+    <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/" height="128"></td>
+  </tr>
+  <tr>
+    <td>505</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[[[[main+7288C58]+1F0]+30]+30]+2F58</td>
+    <td><img src="https://github.com/Ruimusume/NSCE/blob/main/DQ7R%20item%20ID%20img/" height="128"></td>
   </tr>
 </table>
 </html>
