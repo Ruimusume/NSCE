@@ -1,0 +1,507 @@
+序号	中文	日文	英文	分类	图片
+0	柏木棍	ひのきのぼう	Cypress Stick	装备	000.png
+1	铜剑	どうのつるぎ	Copper Sword	装备	001.png
+2	钢铁剑	はがねのつるぎ	Steel Broadsword	装备	002.png
+3	破邪之剑	はじゃのつるぎ	Cautery Sword	装备	003.png
+4	锯齿刀	のくぎり刃	Saw Blade	装备	004.png
+5	涟漪之剑	さざなみの剣	Rippled Rapier	装备	005.png
+6	妖精之剑	ようせいの剣	Faerie Foil	装备	006.png
+7	白金剑	プラチナノード	Platinum Sword	装备	007.png
+8	冰刃	こおりのやいば	Icicle Dirk	装备	008.png
+9	浅眠之剑	まどろみの剣	Dream Blade	装备	009.png
+10	隼之剑	はやぶさの剣	Falcon Blade	装备	010.png
+11	诱惑之剑	ゆうわくの剣	Siren Sword	装备	011.png
+12	斩尸剑	ゾンビキラー	Zombiesbane	装备	012.png
+13	斩龙剑	ドラゴンキラー	Dragonsbane	装备	013.png
+14	火焰剑	ほのおのつるぎ	Fire Blade	装备	014.png
+15	尤巴尔之剑	ユバールの剣	Sword of the Roamers	装备	015.png
+16	雷鸣之剑	らいめいの剣	Sunderbolt Blade	装备	016.png
+17	哥迪亚斯之剑	ゴヂィアスの剣	Godaeas Sword	装备	017.png
+18	奇迹之剑	きせきのつるぎ	Miracle Sword	装备	018.png
+19	风雪之剑	ふぶきのつるぎ	Blizzard Blade	装备	019.png
+20	手半剑	バスタートソード	Bastard Sword	装备	020.png
+21	破坏之剑	はかいのつるぎ	Sword of Ruin	装备	021.png
+22	双刃剑	もろはののつるぎ	Double-Edged Sword	装备	022.png
+23	王者之剑	王者のつるぎ	Kingsblade	装备	023.png
+24	水龙之剑	水竜の剣	Sea Serpent Sabre	装备	024.png
+25	金属史莱姆王剑	メタルキングの剣	Metal King Sword	装备	025.png
+26	海神之剑	オチェーアノの剣	Okeanos Sword	装备	026.png
+27	银河之剑	ぎんがのつるぎ	Hypernova Sword	装备	027.png
+28	彗星之剑	すいせいのつるぎ	Supernova Sword	装备	028.png
+29	金属史莱姆之剑	メタスラの剣	Metal Slime Sword	装备	029.png
+30	流浪金属史莱姆剑	はぐれメタルの剣	Liquid Metal Sword	装备	030.png
+31	光之剑	ひかりのつるぎ	Aurora Blade	装备	031.png
+32	梅尔文之剑	メルビンの剣	Sir Mervyn's Sword	装备	032.png
+33	洛特之剑	ロトのつるぎ	Erdrick's Sword	装备	033.png
+34	史莱姆之剑	スライムの剣	Slime Sword	装备	034.png
+35	真・水龙之剑	真・水竜の剣	Supreme Sea Serpent Sabre	装备	035.png
+36	利骨	とがったホネ	Bone Stake	装备	036.png
+37	青铜短刀	ブロンズナイフ	Bronze Knife	装备	037.png
+38	神圣短刀	せいなるナイフ	Divine Dagger	装备	038.png
+39	毒蛾短刀	どくがのナイフ	Poison Moth Knife	装备	039.png
+40	刺客匕首	アサシンダガー	Assassin's Dagger	装备	040.png
+41	毒针	どくばり	Poison Needle	装备	041.png
+42	穿刺耳环	キラーピアス	Falcon Knife Earrings	装备	042.png
+43	夜蝶短剑	よるのバピヨン	Dread Dagger	装备	043.png
+44	竹矛	たけのやり	Bamboo Spear	装备	044.png
+45	铁矛	てつのやり	Iron Lance	装备	045.png
+46	神圣之矛	ホーリーランス	Holy Lance	装备	046.png
+47	恶魔之矛	デーモンスピア	Demon Spear	装备	047.png
+48	白金矛	プラチナのやり	Platinum Lance	装备	048.png
+49	圣龙偃月刀	聖竜のえんげつとう	Heaven's Talon	装备	049.png
+50	石斧	石のオノ	Stone Axe	装备	050.png
+51	铁斧	てつのオノ	Iron Axe	装备	051.png
+52	战斧	バトルアックス	Battleaxe	装备	052.png
+53	魔神之斧	まじんのオノ	Headsman's Axe	装备	053.png
+54	巨斧	グレードアックス	Bad Axe	装备	054.png
+55	石牙	石のキバ	Stone Fangs	装备	055.png
+56	钢铁之牙	はがねのキバ	Steel Fangs	装备	056.png
+57	魔兽之牙	まじゅうのキバ	Ferocious Fangs	装备	057.png
+58	奥利哈尔刚之牙	オリハルコンのキバ	Orichalcum Fangs	装备	058.png
+59	铁爪	てつのツメ	Iron Claws	装备	059.png
+60	火焰之爪	ほのおのツメ	Fire Claws	装备	060.png
+61	龙爪	ドラゴンクロー	Dragon Claws	装备	061.png
+62	恶魔之爪	あくまのツメ	Cobra Claws	装备	062.png
+63	魔兽之爪	まじゅうのツメ	Beast Claws	装备	063.png
+64	冥兽之爪	冥獣のツメ	Monster Slashers	装备	064.png
+65	回旋镖	ブーメラン	Boomerang	装备	065.png
+66	利刃回旋镖	やいばのブーメラン	Edged Boomerang	装备	066.png
+67	火焰回旋镖	ほのおのブーメラン	Flametang Boomerang	装备	067.png
+68	金属史莱姆回旋镖	メタスラブーメラン	Metal Goomerang	装备	068.png
+69	流浪金属史莱姆镖	はぐメタブーメラン	Liquid Metal Goomerang	装备	069.png
+70	金属史莱姆王回旋	メタキンブーメラン	Metal King Goomerang	装备	070.png
+71	史莱姆回旋镖	スライムブーメラン	Slime Boomerang	装备	071.png
+72	荆棘鞭	いばらのムチ	Thorn Whip	装备	072.png
+73	皮鞭	皮のムチ	Leather Whip	装备	073.png
+74	锁链鞭	チェーンクロス	Chain Whip	装备	074.png
+75	龙尾鞭	ドラゴンテイル	Dragontail Whip	装备	075.png
+76	钢铁之鞭	はがねのムチ	Spiked Steel Whip	装备	076.png
+77	古林盖姆之鞭	グリンガムのムチ	Gringham Whip	装备	077.png
+78	晨星鞭	モーニングスター	Morning Star	装备	078.png
+79	破坏铁球	はかいの鉄球	Flail of Destruction	装备	079.png
+80	野兽鞭	ビーストウィップ	Beastly Bullwhip	装备	080.png
+81	超古林盖姆之鞭	超グリンガムのムチ	Über Gringham Whip	装备	081.png
+82	月之扇	月のおうぎ	Lunar Fan	装备	082.png
+83	太阳之扇	太陽のおうぎ	Solar Fan	装备	083.png
+84	星之扇	星のおうぎ	Stellar Fan	装备	084.png
+85	圣王之扇	聖王のおうぎ	Dryspell Fan	装备	085.png
+86	玫瑰人生	ラヴィアンローズ	Rose-Tinted Spectaculars	装备	086.png
+87	魔道士法杖	まどうしの杖	Wizard's Staff	装备	087.png
+88	祝福之杖	しゅくふくの杖	Staff of Salvation	装备	088.png
+89	雷鸣法杖	いかすちの杖	Lightning Staff	装备	089.png
+90	沉睡法杖	ねむりの杖	Snooze Stick	装备	090.png
+91	天谴法杖	てんばつの杖	Staff of Divine Wrath	装备	091.png
+92	制裁法杖	さばきの杖	Staff of Sentencing	装备	092.png
+93	封魔法杖	まふうじの杖	Staff of Antimagic	装备	093.png
+94	符文法杖	ルーンスタッフ	Rune Staff	装备	094.png
+95	贤者法杖	けんじゃの杖	Sage's Staff	装备	095.png
+96	岩浆法杖	マグマの杖	Magma Staff	装备	096.png
+97	复活法杖	ふっかつの杖	Staff of Resurrection	装备	097.png
+98	海鸣法杖	うみなりの杖	Watermaul Wand	装备	098.png
+99	英雄之杖	英雄の杖	Saviour's Staff	装备	099.png
+100	史莱姆短杖	スライムステッキ	Slime Stick	装备	100.png
+101	冰之法杖	こおりの杖	Shiverstick	装备	101.png
+102	塞壬法杖	セイレーンの杖	Siren's Staff	装备	102.png
+103	女神法杖	女神の杖	Sacrosanct Staff	装备	103.png
+104	永恒法杖	とこしえの杖	Staff of Eternity	装备	104.png
+105	妖精短杖	フェアリーステッキ	Pixie Pole	装备	105.png
+106	泰塔尼亚杖	タイタニアステッキ	Butterfly Baton	装备	106.png
+107	精灵王之杖	精霊王のタクト	Faerie King's Cane	装备	107.png
+108	大木锤	おおきづち	Giant Mallet	装备	108.png
+109	大铁锤	おおかなづち	Sledgehammer	装备	109.png
+110	战锤	ウォーハンマー	War Hammer	装备	110.png
+111	魔神之锤	まじんのかなづち	Hela's Hammer	装备	111.png
+112	棍棒	こんぼう	Oaken Club	装备	112.png
+113	平底锅	フライパン	Frying Pan	装备	113.png
+114	力量之爪	パウーナックル	Knuckledusters	装备	114.png
+115	锅盖	おなべのふた	Pot Lid	装备	115.png
+116	皮盾	皮の盾	Leather Shield	装备	116.png
+117	鳞盾	うろこの盾	Scale Shield	装备	117.png
+118	猫仔盾牌	キトンシールド	Kitty Shield	装备	118.png
+119	青铜盾	せいどうの盾	Bronze Shield	装备	119.png
+120	铁盾	てつの盾	Iron Shield	装备	120.png
+121	白银托盘	シルバートレイ	Silver Platter	装备	121.png
+122	纯白盾	ホワイトシールド	White Shield	装备	122.png
+123	魔法盾	まほうの盾	Magic Shield	装备	123.png
+124	白金盾	プラチナシールド	Platinum Shield	装备	124.png
+125	冰盾	こおりの盾	Ice Shield	装备	125.png
+126	龙盾	ドラゴンシールド	Dragon Shield	装备	126.png
+127	海豚盾	ドルフィンシールド	Bottlenose Buckler	装备	127.png
+128	风神之盾	ふうじんの盾	Tempest Shield	装备	128.png
+129	炎之盾	ほのおの盾	Flame Shield	装备	129.png
+130	叹息之盾	なげきの盾	Shield of Shame	装备	130.png
+131	力量之盾	ちからの盾	Power Shield	装备	131.png
+132	巨魔盾	オーガシールド	Ogre Shield	装备	132.png
+133	水镜之盾	みかがみの盾	Silver Shield	装备	133.png
+134	毁灭之盾	はめつの盾	Ruinous Shield	装备	134.png
+135	龙卷之盾	トルナードの盾	Aeras Shield	装备	135.png
+136	金属史莱姆王盾	メダルキングの盾	Metal King Shield	装备	136.png
+137	史莱姆托盘・蓝	スライムトレイ・青	Blue Slime Shield	装备	137.png
+138	史莱姆托盘・红	スライムトレイ・赤	Red Slime Shield	装备	138.png
+139	史莱姆托盘・绿	スライムトレイ・緑	Green Slime Shield	装备	139.png
+140	史莱姆托盘・银	スライムトレイ・銀	Silver Slime Shield	装备	140.png
+141	金属史莱姆之盾	メタスラの盾	Metal Slime Shield	装备	141.png
+142	流浪金属史莱姆盾	はぐれメタルの盾	Liquid Metal Shield	装备	142.png
+143	洛特之盾	ロトの盾	Erdrick's Shield	装备	143.png
+144	布衣	布の服	Plain Clothes	装备	144.png
+145	旅行者装	たびびとの服	Wayfarer's Clothes	装备	145.png
+146	丝织礼服	きぬのタキシード	Silk Tuxedo	装备	146.png
+147	史莱姆衣服	スライムの服	Slime Gooniform	装备	147.png
+148	舞女衣	おどりこの服	Dancer's Costume	装备	148.png
+149	贵族服	きぞくの服	Noble Garb	装备	149.png
+150	闪避之衣	みかわしの服	Cloak of Evasion	装备	150.png
+151	华丽服装	はでな服	Garish Garb	装备	151.png
+152	海盗服	かいぞくの服	Captain's Coat	装备	152.png
+153	时尚衣服	おしゃれなスーツ	Smart Suit	装备	153.png
+154	魔法短裙	マジカルスカート	Magical Skirt	装备	154.png
+155	皮裙	皮のトレス	Leather Dress	装备	155.png
+156	派对礼服	パーティードレス	Party Dress	装备	156.png
+157	亮片礼服	スパンコールドレス	Spangled Dress	装备	157.png
+158	光之礼服	ひかりのドレス	Shimmering Dress	装备	158.png
+159	破布片	ただの布きれ	Rags	装备	159.png
+160	毛皮披风	毛皮のマント	Fur Cape	装备	160.png
+161	神奇短外套	ふしぎなボレロ	Glombolero	装备	161.png
+162	暗之披风	やみのこれも	Dark Robe	装备	162.png
+163	丝织长袍	きぬのローブ	Silk Robe	装备	163.png
+164	魔法法衣	まほうの法衣	Magic Vestment	装备	164.png
+165	魔道士长袍	まどうしのローブ	Legerdemantle	装备	165.png
+166	风之长袍	風のローブ	Cirrus Surplice	装备	166.png
+167	天使长袍	天使のローブ	Angel's Robe	装备	167.png
+168	纯净锦衣	清きころも	Vestment of Virtue	装备	168.png
+169	水之羽衣	みずのはごろも	Flowing Dress	装备	169.png
+170	公主长袍	プリンセスローブ	Princess's Robe	装备	170.png
+171	龙之长袍	ドラゴンローブ	Dragon Robe	装备	171.png
+172	短裤	ステテコパンツ	Boxer Shorts	装备	172.png
+173	皮腰带	皮のこしまき	Leather Kilt	装备	173.png
+174	兔女郎装	バニースーツ	Cottontail Costume	装备	174.png
+175	天使紧身衣	天使のレオタード	Angel Leotard	装备	175.png
+176	丝绸束胸衣	シルクのビスチェ	Silk Bustier	装备	176.png
+177	神秘的束胸衣	しんぴのビスチェ	Divine Bustier	装备	177.png
+178	假期连衣裙	おやすみワンピース	Day Off Dress	装备	178.png
+179	铁制胸铠	てつのむねあて	Iron Cuirass	装备	179.png
+180	银制胸铠	ぎんのむねあて	Silver Cuirass	装备	180.png
+181	皮铠	皮のよろい	Leather Armour	装备	181.png
+182	鳞铠	うろこのよろい	Scale Armour	装备	182.png
+183	甲壳铠	こうらのよろい	Shell Armour	装备	183.png
+184	锁链甲	くさりかたびら	Chain Mail	装备	184.png
+185	青铜铠甲	せいどうのよろい	Bronze Armour	装备	185.png
+186	铁制铠甲	てつのよろい	Iron Armour	装备	186.png
+187	龟壳	カメのこうら	Tortoise Shell	装备	187.png
+188	钢铁铠甲	はがねのよろい	Full Plate Armour	装备	188.png
+189	维京人铠甲	バイキングアーマー	Pillager's Platemail	装备	189.png
+190	舞蹈锁甲	ダンシングメイル	Dancer's Mail	装备	190.png
+191	白银锁甲	シルバーメイル	Silver Mail	装备	191.png
+192	魔法铠甲	まほうのよろい	Magic Armour	装备	192.png
+193	厚实铠甲	あつでのよろい	Heavy Armour	装备	193.png
+194	刀刃铠甲	やいばのよろい	Spiked Armour	装备	194.png
+195	精灵之铠	精霊のよろい	Enchanted Armour	装备	195.png
+196	龙鳞锁甲	ドラゴンメイル	Dragon Mail	装备	196.png
+197	地狱甲胄	じごくのよろい	Hate Mail	装备	197.png
+198	白金锁甲	プラチナメイル	Platinum Mail	装备	198.png
+199	火焰铠甲	ほのおのよろい	Flame Armour	装备	199.png
+200	史莱姆铠甲	スライムアーマー	Slime Armour	装备	200.png
+201	神秘铠甲	しんぴのよろい	Sacred Armour	装备	201.png
+202	魔神之铠	まじんのよろい	Hela's Armour	装备	202.png
+203	巨人之铠	ギガントアーマー	Gigant Armour	装备	203.png
+204	明镜铠甲	ミラーアーマー	Mirror Armour	装备	204.png
+205	王家铠甲	王家のよろい	Royal Mail	装备	205.png
+206	金属史莱姆王铠甲	メタルキングよろい	Metal King Armour	装备	206.png
+207	盖亚拉铠甲	ガイアラのよろい	Gaia Armour	装备	207.png
+208	貂皮大衣	ミンクのコート	Mink Mantle	装备	208.png
+209	王者披风	王者のマント	Pallium Regale	装备	209.png
+210	包袱布披风	ふろしきマント	Windcheater	装备	210.png
+211	真・神奇短外套	真ふしぎなボレロ	Glitzy Glombolero	装备	211.png
+212	真・神秘铠甲	真しんぴのよろい	Sacreder Armour	装备	212.png
+213	皮帽	皮のぼうし	Leather Hat	装备	213.png
+214	尖帽子	とんがりぼうし	Pointy Hat	装备	214.png
+215	木帽	木のぼうし	Hardwood Headwear	装备	215.png
+216	贝壳帽	かいがらぼうし	Shellmet	装备	216.png
+217	神奇帽子	ふぎなぼうし	Mad Cap	装备	217.png
+218	毛皮兜帽	毛皮のフード	Fur Hood	装备	218.png
+219	知识帽	ちしきのぼうし	Canny Cap	装备	219.png
+220	礼帽	シルクハット	Top Hat	装备	220.png
+221	船长帽	キャプテンハット	Pirate's Hat	装备	221.png
+222	回音帽子	やまびこのぼうし	Duplic Hat	装备	222.png
+223	风之帽子	風のぼうし	Hermes' Hat	装备	223.png
+224	幸福帽子	しあわせのぼうし	Happy Hat	装备	224.png
+225	发箍	ヘアバンド	Hairband	装备	225.png
+226	包头巾	ターバン	Turban	装备	226.png
+227	银制发饰	ぎんのかみかざり	Silver Tiara	装备	227.png
+228	兔耳发箍	うさみみバンド	Rabbit Ears	装备	228.png
+229	铁制头盔	てつかびと	Iron Helmet	装备	229.png
+230	铁面具	てっかめん	Iron Mask	装备	230.png
+231	维京人护帽	バイキングメット	Pillager's Helmet	装备	231.png
+232	白金盔胄	プラチナヘッド	Platinum Headgear	装备	232.png
+233	狂战士头盔	バーサカヘルム	Haywire Helm	装备	233.png
+234	智力头盔	知力のかぶと	Thinking Cap	装备	234.png
+235	黄金冠	おうごんのティアラ	Golden Tiara	装备	235.png
+236	儒艮头盔	デュゴンのかぶと	Seacow Sallet	装备	236.png
+237	伟大头盔	グレードヘルム	Great Helm	装备	237.png
+238	烈焰头盔	フェーゴのかぶと	Pyros Helm	装备	238.png
+239	金属史莱姆王头盔	メタルキングヘルム	Metal King Helm	装备	239.png
+240	般若面具	はんにゃのめん	Mask of Implacability	装备	240.png
+241	太阳冠	太陽のかんむり	Sun Crown	装备	241.png
+242	史莱姆王冠	スラムのかんむり	Slime Crown	装备	242.png
+243	铁锅	てつなべ	Tin Pot	装备	243.png
+244	真・神奇帽子	真ふしぎなぼうし	Raving Mad Cap	装备	244.png
+245	钢铁头盔	はがねのかぶと	Steel Helmet	装备	245.png
+246	星降手环	ほしふるうでわ	Meteorite Bracer	装备	246.png
+247	美加恩特手环	メガンテのうでわ	Kamikazee Bracer	装备	247.png
+248	美加扎尔手环	メガザルのうでわ	Kerplunk Bracer	装备	248.png
+249	金手镯	きんのブレスレット	Gold Bracer	装备	249.png
+250	豪杰手环	ごうけつのうでわ	Mighty Armlet	装备	250.png
+251	时尚头巾	おしゃれなバンダナ	Trailblazing Bandana	装备	251.png
+252	疾风头巾	しっぷうのバンダナ	Mercury's Bandana	装备	252.png
+253	陈旧眼镜	古びたメガネ	Wrecked Specs	装备	253.png
+254	知识眼镜	インテリメガネ	Scholar's Specs	装备	254.png
+255	蝴蝶结领带	ちょうネクタイ	Bow Tie	装备	255.png
+256	吊袜带	ガーターベルト	Garter	装备	256.png
+257	网纹紧身衣	あみタイツ	Fishnet Stockings	装备	257.png
+258	玻璃鞋	ガラスのくつ	Glass Slippers	装备	258.png
+259	幸福靴子	しあわせのくつ	Elevating Shoes	装备	259.png
+260	祈祷戒指	いのりのゆびわ	Prayer Ring	装备	260.png
+261	力量戒指	ちからのゆびわ	Strength Ring	装备	261.png
+262	生命戒指	命のゆびわ	Life Ring	装备	262.png
+263	疾风戒指	はやてのリング	Agility Ring	装备	263.png
+264	女神戒指	女神のゆびわ	Goddess Ring	装备	264.png
+265	星之碎片	ほしのかけら	Lucida Shard	装备	265.png
+266	粉红珍珠	ピンクパール	Pink Pearl	装备	266.png
+267	兔子尾巴	うさぎのしっぽ	Rabbit Tail	装备	267.png
+268	人鱼之月	人魚の月	Mermaid Moon	装备	268.png
+269	史莱姆耳环	スライムピアス	Slime Earrings	装备	269.png
+270	守护红宝石	まもりのルビー	Ruby of Protectior	装备	270.png
+271	大地护身符	大地のアミュレット	Earth Amulet	装备	271.png
+272	火焰护身符	炎のアミュレット	Fire Amulet	装备	272.png
+273	纯水护身符	水のアミュレット	Water Amulet	装备	273.png
+274	疾风护身符	風のアミュレット	Air Amulet	装备	274.png
+275	风之披风	風のマント	Windbraker	装备	275.png
+276	英雄腰带	ヒーローベルト	Champion's Belt	装备	276.png
+277	超・幸福靴子	超しあわせのくつ	Extra-Elevating Shoes	装备	277.png
+278	幸运垂饰	ラッキーペンダント	Lucky Pendant	装备	278.png
+279	史莱姆之心	スライムの心	Slime Heart	装备	279.png
+280	舞蹈宝石之心	おどるほうせきの心	Goodybag Heart	装备	280.png
+281	霍伊米史莱姆之心	ホイミスライムの心	Healslime Heart	装备	281.png
+282	厚唇蛞蝓之心	リップスの心	Lips Heart	装备	282.png
+283	段平刀姆乔之心	ダンビラムーチョの心	Notso Macho Heart	装备	283.png
+284	巨像兵之心	ゴーレムの心	Golem Heart	装备	284.png
+285	水井魔神之心	いどまじんの心	Well Wisher Heart	装备	285.png
+286	杀人豹之心	キラーパンサーの心	Great Sabrecat Heart	装备	286.png
+287	鼠射手之心	リリパットの心	Bodkin Archer Heart	装备	287.png
+288	大木锤之心	おおきづちの心	Hammerhood Heart	装备	288.png
+289	猫魔导士之心	ねこまどうの心	Meowgician Heart	装备	289.png
+290	仙人掌球之心	サボテンボールの心	Cactiball Heart	装备	290.png
+291	泡沫史莱姆之心	バブルスライムの心	Bubble Slime Heart	装备	291.png
+292	金属史莱姆之心	メタルスライムの心	Metal Slime Heart	装备	292.png
+293	大铁锤之心	ブラウニーの心	Brownie Heart	装备	293.png
+294	大魔道之心	だいまどうの心	Vis Mager Heart	装备	294.png
+295	黄金人之心	ゴールドマンの心	Gold Golem Heart	装备	295.png
+296	时间大师之心	タイムマスターの心	Time Being Heart	装备	296.png
+297	神之心	かみさまの心	Numen Heart	装备	297.png
+298	骸骨剑士之心	がいこつけんしの心	Skeleton Swordsman Heart	装备	298.png
+299	巫妖骑士之心	ナイトリッチの心	Fright Knight Heart	装备	299.png
+300	报废士兵之心	ポンコツ兵の心	Scrapper Heart	装备	300.png
+301	独眼巨人之心	サイクロプスの心	Cyclops Heart	装备	301.png
+302	果冻人之心	ジェリーマンの心	Admirer Heart	装备	302.png
+303	尼克洛巴萨之心	ネクロバルサの心	Togre Heart	装备	303.png
+304	食人魔之心	トロルの心	Troll Heart	装备	304.png
+305	肌肉男之心	あらくれの心	Goon Heart	装备	305.png
+306	山贼之心	さんぞくの心	Swagman Heart	装备	306.png
+307	小恶魔之心	インプの心	Little Devil Heart	装备	307.png
+308	小恶魔法师之心	マージインプの心	Very Devil Heart	装备	308.png
+309	泥人偶之心	どろにんぎょうの心	Mud Mannequin Heart	装备	309.png
+310	龙之心	ドラゴンの心	Green Dragon Heart	装备	310.png
+311	地狱太古龙之心	ヘルジュラシックの心	Dragster Heart	装备	311.png
+312	洞窟魔神之心	どうくつまじんの心	Grody Gumpdrops Heart	装备	312.png
+313	神龙之心	神竜の心	Xenlon Heart	装备	313.png
+314	巨龙之心	ギガントドラゴンの心	Drakulard Heart	装备	314.png
+315	暗影魔王之心	シャドーサタンの心	Hypothermion Heart	装备	315.png
+316	流浪金属史莱姆之心	はぐれメタルの心	Liquid Metal Slime Heart	装备	316.png
+317	金属史莱姆王之心	メタルキングの心	Metal King Slime Heart	装备	317.png
+318	死亡追踪者之心	キラーストーカーの心	Wight Watchman Heart	装备	318.png
+319	狮头怪之心	ライオンヘッドの心	Infanticore Heart	装备	319.png
+320	豹猫法师之心	ジャガーメイジの心	Clawcerer Heart	装备	320.png
+321	贝霍玛史莱姆之心	ベホマスライムの心	Cureslime Heart	装备	321.png
+322	龙王之心	竜王の心	Dragonlord Heart	装备	322.png
+323	席德之心	シドーの心	Malroth Heart	装备	323.png
+324	索玛之心	ゾーマの心	Zoma Heart	装备	324.png
+325	药草	やくそう	Medicinal Herb	道具	325.png
+326	上等药草	上やくそう	Strong Medicine	道具	326.png
+327	特级药草	特やくそう	Special Medicine	道具	327.png
+328	阿密特煎饼	アミットせんべい	Pilchard Crackers	道具	328.png
+329	阿密特馅饼	アミットまんじゅう	Pilchard Pie	道具	329.png
+330	解毒草	どくけしそう	Antidotal Herb	道具	330.png
+331	满月草	まんげつそう	Moonwort Bulb	道具	331.png
+332	魔法小瓶	まほうの小ビン	Single Phial	道具	332.png
+333	魔法圣水	まほうのせいすい	Magic Water	道具	333.png
+334	埃尔夫族的内服药	エルフののみぐすい	Elfin Elixir	道具	334.png
+335	世界树之叶	せかいじゅの葉	Yggdrasil Leaf	道具	335.png
+336	世界树之露	せかいじゅのしずく	Yggdrasil Dew	道具	336.png
+337	奇美拉之翼	キメラのばさ	Chimaera Wing	道具	337.png
+338	圣水	せいすい	Holy Water	道具	338.png
+339	毒蛾鳞粉	どくがのこな	Coagulant	道具	339.png
+340	奇迹之石	奇跡の石	Salvation Stone	道具	340.png
+341	贤者之石	けんじゃの石	Sage's Stone	道具	341.png
+342	生命之石	命の石	Dieamend	道具	342.png
+343	马粪	うまのふん	Horse Manure	道具	343.png
+344	生命果实	命のきのみ	Seed of Life	道具	344.png
+345	魔力果实	ふしぎなきのみ	Seed of Magic	道具	345.png
+346	力量种子	ちからのたね	Seed of Strength	道具	346.png
+347	灵巧种子	きようさのたね	Seed of Deftness	道具	347.png
+348	速度种子	すばやさのたね	Seed of Agility	道具	348.png
+349	防御种子	まもりのたね	Seed of Resilience	道具	349.png
+350	魔力种子	まりゅくのたね	Seed of Sorcery	道具	350.png
+351	信仰种子	しんこうのたね	Seed of Therapeusis	道具	351.png
+352	美肌草	うつくしそう	Pretty Betsy	道具	352.png
+353	超生命果实	超命のきのみ	Super Seed of Life	道具	353.png
+354	超魔力果实	超ふしぎなきのみ	Super Seed of Magic	道具	354.png
+355	超力量种子	超ちからのたね	Super Seed of Strength	道具	355.png
+356	超灵巧种子	超きようさのたね	Super Seed of Deftness	道具	356.png
+357	超速度种子	超すばやさのたね	Super Seed of Agility	道具	357.png
+358	超守护种子	超まもりのたね	Super Seed of Resilience	道具	358.png
+359	超魔力种子	超まりゅくのたね	Super Seed of Sorcery	道具	359.png
+360	超信仰种子	超しんこうのたね	Super Seed of Therapeusis	道具	360.png
+361	超美肌草	超うつくしそう	Super Pretty Betsy	道具	361.png
+362	熟练种子	熟練のたね	Seed of Proficiency	道具	362.png
+363	凤尾鱼三明治	アンチョビサンド	Pilchard Sandwich	道具	363.png
+364	盐煮小鱼	小魚のつくだ煮	Fish Bits	道具	364.png
+365	王家古书	王家の古文書	Ancient Tome	重要道具	365.png
+366	炙热石	ホットストーン	Sizzling Stone	重要道具	366.png
+367	木制人偶	木の人形	Wooden Doll	道具	367.png
+368	绿色宝玉	緑色の宝玉	Green Gem	重要道具	368.png
+369	很厉害的圣水	すごい聖水	Wholly Holy Water	重要道具	369.png
+370	很厉害的圣水瓶	すごい聖水のビン	Wholly Holy Water (Empty Bottle)	重要道具	370.png
+371	七彩之露	七色のしずく	Prism Dew	重要道具	371.png
+372	圆圆钮扣	まんまるボタン	Little Blue Button	重要道具	372.png
+373	天使之泪	天使の涙	Angel's Tears	重要道具	373.png
+374	机关士兵的零件	からくり兵の部品	Globular Pistotron	重要道具	374.png
+375	爱丽的设计图与零件	エリーの設計図と部品	Blueprints and Spare Part	重要道具	375.png
+376	帕米拉的秘药	パミラのひやく	Palmela's Prescription	重要道具	376.png
+377	恩泽葡萄汁	グレイプのグラス	Spirit of the Dance	重要道具	377.png
+378	大地铃铛	大地の鈴	Chimes of the Chosen	重要道具	378.png
+379	基法的信	キーファの手紙	Kiefer's Letter	重要道具	379.png
+380	达玛水晶	ダーマの水晶	Career Sphere	重要道具	380.png
+381	魔法地毯	魔法のじゅうたん	Flying Carpet	重要道具	381.png
+382	魔法地毯※	魔法のじゅうたん※	Flying Carpet※	重要道具	381.png
+383	沙漠护身符	さばくのお守り	Seal of the Sands	重要道具	383.png
+384	古代化石	古代の化石	Ancient Skull	重要道具	384.png
+385	提拉诺斯的骨头	ティラノスのほね	Serpent's Skull	重要道具	385.png
+386	黑暗红宝石	闇のルビー	Blood Ruby	重要道具	386.png
+387	友好书信	友好の書状	Letter of Amity	重要道具	387.png
+388	钱和信	お金と手紙	Care Package	重要道具	388.png
+389	紫色小瓶	むらさきの小ビン	Dubious Concoction	重要道具	389.png
+390	皇太后的信	皇太后の書状	Queen Mother's Missive	重要道具	387.png
+391	大神官的信	大神官の書状	Wizz's Seal of Approval	重要道具	387.png
+392	大地之图拉琴	大地のトゥーラ	Torban of Tiuth	重要道具	392.png
+393	星空结晶	星空の結晶	Starshard	重要道具	393.png
+394	神石	神の石	Sacred Stone	重要道具	394.png
+395	陈旧石碑	古びた石碑	Worn Stone Tablet	重要道具	395.png
+396	闪光地衣	光ゴケ	Glowmoss	重要道具	396.png
+397	神圣火种	聖なる種火	Guiding light	重要道具	397.png
+398	散发纯净光芒的圣水	きれいに光る聖水	Sparkling Holy Water	重要道具	398.png
+399	飞行石	飛空石	Skystone	重要道具	399.png
+400	凝视宝石	まなざしの宝石	Eye Stones	重要道具	400.png
+401	嫣红宝石	ルージュの宝石	Mouth Stone	重要道具	401.png
+402	心型宝石	ハート形の宝石	Heart Stone	重要道具	402.png
+403	耳环宝石	ピアスの宝石	Ear Stones	重要道具	403.png
+404	鼻翼宝石	ノーズの宝石	Nose Stone	重要道具	404.png
+405	圣风的光球	聖風の光球	Aeolus Globe	重要道具	405.png
+406	空瓶	空のビン	Empty Bottle	重要道具	370.png
+407	装满水的瓶子	水で満たされたビン	Bottle of Water	重要道具	369.png
+408	给国王的信	王ヘの書状	Letter to the King	重要道具	379.png
+409	太阳石戒指	太陽石の指輪	Sunstone Ring	重要道具	409.png
+410	盗贼的钥匙	とうぞくのカギ	Thief's Key	重要道具	410.png
+411	达玛的钥匙	ダーマのカギ	Alltrades Key	重要道具	411.png
+412	山贼的钥匙	さんぞくのカギ	Bandit's Key	重要道具	412.png
+413	黑色的钥匙	黒いカギ	Black Key	重要道具	413.png
+414	魔法的钥匙	まほうのカギ	Magic Key	重要道具	414.png
+415	灼热的钥匙	しゃくねつのカギ	Conflagration Key	重要道具	415.png
+416	王家的钥匙	王家のカギ	Royal Key	重要道具	416.png
+417	封印祠堂的钥匙	封印のほこらのカギ	Multipleximus Key	重要道具	413.png
+418	最后的钥匙	さいごのカギ	Ultimate Key	重要道具	418.png
+419	项圈的钥匙	くびわのカギ	Collar Key	重要道具	413.png
+420	通往考验的钥匙	試練ヘのカギ	Trial Key	重要道具	420.png
+421	黄色神奇石板1	ふしぎな石版・黄１	Yellow Fragment 1	重要道具	421.png
+422	黄色神奇石板2	ふしぎな石版・黄２	Yellow Fragment 2	重要道具	421.png
+423	黄色神奇石板3	ふしぎな石版・黄３	Yellow Fragment 3	重要道具	421.png
+424	黄色神奇石板4	ふしぎな石版・黄４	Yellow Fragment 4	重要道具	421.png
+425	黄色神奇石板5	ふしぎな石版・黄５	Yellow Fragment 5	重要道具	421.png
+426	黄色神奇石板6	ふしぎな石版・黄６	Yellow Fragment 6	重要道具	421.png
+427	黄色神奇石板7	ふしぎな石版・黄７	Yellow Fragment 7	重要道具	421.png
+428	黄色神奇石板8	ふしぎな石版・黄８	Yellow Fragment 8	重要道具	421.png
+429	黄色神奇石板9	ふしぎな石版・黄９	Yellow Fragment 9	重要道具	421.png
+430	黄色神奇石板10	ふしぎな石版・黄１０	Yellow Fragment 10	重要道具	421.png
+431	黄色神奇石板11	ふしぎな石版・黄１１	Yellow Fragment 11	重要道具	421.png
+432	黄色神奇石板12	ふしぎな石版・黄１２	Yellow Fragment 12	重要道具	421.png
+433	绿色神奇石板1	ふしぎな石版・緑１	Green Fragment 1	重要道具	422.png
+434	绿色神奇石板2	ふしぎな石版・緑２	Green Fragment 2	重要道具	422.png
+435	绿色神奇石板3	ふしぎな石版・緑３	Green Fragment 3	重要道具	422.png
+436	绿色神奇石板4	ふしぎな石版・緑４	Green Fragment 4	重要道具	422.png
+437	绿色神奇石板5	ふしぎな石版・緑５	Green Fragment 5	重要道具	422.png
+438	绿色神奇石板6	ふしぎな石版・緑６	Green Fragment 6	重要道具	422.png
+439	绿色神奇石板7	ふしぎな石版・緑７	Green Fragment 7	重要道具	422.png
+440	绿色神奇石板8	ふしぎな石版・緑８	Green Fragment 8	重要道具	422.png
+441	红色神奇石板1	ふしぎな石版・赤１	Red Fragment 1	重要道具	423.png
+442	红色神奇石板2	ふしぎな石版・赤２	Red Fragment 2	重要道具	423.png
+443	红色神奇石板3	ふしぎな石版・赤３	Red Fragment 3	重要道具	423.png
+444	红色神奇石板4	ふしぎな石版・赤４	Red Fragment 4	重要道具	423.png
+445	红色神奇石板5	ふしぎな石版・赤５	Red Fragment 5	重要道具	423.png
+446	红色神奇石板6	ふしぎな石版・赤６	Red Fragment 6	重要道具	423.png
+447	红色神奇石板7	ふしぎな石版・赤７	Red Fragment 7	重要道具	423.png
+448	红色神奇石板8	ふしぎな石版・赤８	Red Fragment 8	重要道具	423.png
+449	红色神奇石板9	ふしぎな石版・赤９	Red Fragment 9	重要道具	423.png
+450	红色神奇石板10	ふしぎな石版・赤１０	Red Fragment 10	重要道具	423.png
+451	蓝色神奇石板1	ふしぎな石版・青１	Blue Fragment 1	重要道具	424.png
+452	蓝色神奇石板2	ふしぎな石版・青２	Blue Fragment 2	重要道具	424.png
+453	蓝色神奇石板3	ふしぎな石版・青３	Blue Fragment 3	重要道具	424.png
+454	蓝色神奇石板4	ふしぎな石版・青４	Blue Fragment 4	重要道具	424.png
+455	蓝色神奇石板5	ふしぎな石版・青５	Blue Fragment 5	重要道具	424.png
+456	蓝色神奇石板6	ふしぎな石版・青６	Blue Fragment 6	重要道具	424.png
+457	蓝色神奇石板7	ふしぎな石版・青７	Blue Fragment 7	重要道具	424.png
+458	蓝色神奇石板8	ふしぎな石版・青８	Blue Fragment 8	重要道具	424.png
+459	蓝色神奇石板9	ふしぎな石版・青９	Blue Fragment 9	重要道具	424.png
+460	蓝色神奇石板10	ふしぎな石版・青１０	Blue Fragment 10	重要道具	424.png
+461	灰色神奇石板1	ふしぎな石版・灰１	Grey Fragment 1	重要道具	425.png
+462	灰色神奇石板2	ふしぎな石版・灰２	Grey Fragment 2	重要道具	425.png
+463	灰色神奇石板3	ふしぎな石版・灰３	Grey Fragment 3	重要道具	425.png
+464	灰色神奇石板4	ふしぎな石版・灰４	Grey Fragment 4	重要道具	425.png
+465	灰色神奇石板5	ふしぎな石版・灰５	Grey Fragment 5	重要道具	425.png
+466	脱落的石板1	はずれた石版	Missing Fragment	重要道具	425.png
+467	灰色神奇石板6	ふしぎな石版・灰６	Grey Fragment 6	重要道具	425.png
+468	灰色神奇石板7	ふしぎな石版・灰７	Grey Fragment 7	重要道具	425.png
+469	灰色神奇石板8	ふしぎな石版・灰８	Grey Fragment 8	重要道具	425.png
+470	灰色神奇石板9	ふしぎな石版・灰９	Grey Fragment 9	重要道具	425.png
+471	灰色神奇石板10	ふしぎな石版・灰１０	Grey Fragment 10	重要道具	425.png
+472	灰色神奇石板11	ふしぎな石版・灰１１	Grey Fragment 11	重要道具	425.png
+473	灰色神奇石板12	ふしぎな石版・灰１２	Grey Fragment 12	重要道具	425.png
+474	深蓝神奇石板1	ふしぎな石版・碧１	Turquoise Fragment 1	重要道具	426.png
+475	深蓝神奇石板2	ふしぎな石版・碧２	Turquoise Fragment 2	重要道具	426.png
+476	深蓝神奇石板3	ふしぎな石版・碧３	Turquoise Fragment 3	重要道具	426.png
+477	黑色神奇石板1	ふしぎな石版・黒１	Black Fragment 1	重要道具	427.png
+478	黑色神奇石板2	ふしぎな石版・黒２	Black Fragment 2	重要道具	427.png
+479	黑色神奇石板3	ふしぎな石版・黒３	Black Fragment 3	重要道具	427.png
+480	古怪神奇石板	ふしぎすぎる石版	Curious Fragment	重要道具	428.png
+481	银色神奇石板1	ふしぎな石版・銀１	Silver Fragment 1	重要道具	429.png
+482	银色神奇石板2	ふしぎな石版・銀２	Silver Fragment 2	重要道具	429.png
+483	银色神奇石板3	ふしぎな石版・銀３	Silver Fragment 3	重要道具	429.png
+484	银色神奇石板4	ふしぎな石版・銀４	Silver Fragment 4	重要道具	429.png
+485	金色神奇石板1	ふしぎな石版・金１	Gold Fragment 1	重要道具	430.png
+486	金色神奇石板2	ふしぎな石版・金２	Gold Fragment 2	重要道具	430.png
+487	金色神奇石板3	ふしぎな石版・金３	Gold Fragment 3	重要道具	430.png
+488	金色神奇石板4	ふしぎな石版・金４	Gold Fragment 4	重要道具	430.png
+489	金色神奇石板5	ふしぎな石版・金５	Gold Fragment 5	重要道具	430.png
+490	金色神奇石板6	ふしぎな石版・金６	Gold Fragment 6	重要道具	430.png
+491	金色神奇石板7	ふしぎな石版・金７	Gold Fragment 7	重要道具	430.png
+492	金色神奇石板8	ふしぎな石版・金８	Gold Fragment 8	重要道具	430.png
+493	小徽章	ちいさなメダル	Mini Medal	重要道具	431.png
+494	小徽章笔记	メダル手帳	Medal Album	重要道具	432.png
+495	特别会员证	特別会員証	VIP Pass	重要道具	433.png
+496					
+497					
+498					
+499					
+500					
+501					
+502					
+503					
+504					
+505					
