@@ -1,3 +1,5 @@
+DRAGON QUEST VII Reimagined item ID by Ruimusume（露易娘）
+
 序号	中文	日文	英文	分类	图片
 0	柏木棍	ひのきのぼう	Cypress Stick	装备	000.png
 1	铜剑	どうのつるぎ	Copper Sword	装备	001.png
