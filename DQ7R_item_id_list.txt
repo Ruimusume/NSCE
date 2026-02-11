@@ -82,7 +82,7 @@ DRAGON QUEST VII Reimagined item ID by Ruimusume（露易娘）
 78	晨星鞭	モーニングスター	Morning Star	装备	078.png
 79	破坏铁球	はかいの鉄球	Flail of Destruction	装备	079.png
 80	野兽鞭	ビーストウィップ	Beastly Bullwhip	装备	080.png
-81	超古林盖姆之鞭	超グリンガムのムチ	Über Gringham Whip	装备	081.png
+81	超古林盖姆之鞭	超グリンガムのムチ	Über Gringham Whip	装备	081.png
 82	月之扇	月のおうぎ	Lunar Fan	装备	082.png
 83	太阳之扇	太陽のおうぎ	Solar Fan	装备	083.png
 84	星之扇	星のおうぎ	Stellar Fan	装备	084.png
@@ -271,7 +271,7 @@ DRAGON QUEST VII Reimagined item ID by Ruimusume（露易娘）
 267	兔子尾巴	うさぎのしっぽ	Rabbit Tail	装备	267.png
 268	人鱼之月	人魚の月	Mermaid Moon	装备	268.png
 269	史莱姆耳环	スライムピアス	Slime Earrings	装备	269.png
-270	守护红宝石	まもりのルビー	Ruby of Protectior	装备	270.png
+270	守护红宝石	まもりのルビー	Ruby of Protection	装备	270.png
 271	大地护身符	大地のアミュレット	Earth Amulet	装备	271.png
 272	火焰护身符	炎のアミュレット	Fire Amulet	装备	272.png
 273	纯水护身符	水のアミュレット	Water Amulet	装备	273.png
@@ -365,7 +365,7 @@ DRAGON QUEST VII Reimagined item ID by Ruimusume（露易娘）
 361	超美肌草	超うつくしそう	Super Pretty Betsy	道具	361.png
 362	熟练种子	熟練のたね	Seed of Proficiency	道具	362.png
 363	凤尾鱼三明治	アンチョビサンド	Pilchard Sandwich	道具	363.png
-364	盐煮小鱼	小魚のつくだ煮	Fish Bits	道具	364.png
+364	盐煮小鱼	小魚のつくだ煮	Fish Bits	重要道具	364.png
 365	王家古书	王家の古文書	Ancient Tome	重要道具	365.png
 366	炙热石	ホットストーン	Sizzling Stone	重要道具	366.png
 367	木制人偶	木の人形	Wooden Doll	道具	367.png
@@ -375,7 +375,7 @@ DRAGON QUEST VII Reimagined item ID by Ruimusume（露易娘）
 371	七彩之露	七色のしずく	Prism Dew	重要道具	371.png
 372	圆圆钮扣	まんまるボタン	Little Blue Button	重要道具	372.png
 373	天使之泪	天使の涙	Angel's Tears	重要道具	373.png
-374	机关士兵的零件	からくり兵の部品	Globular Pistotron	重要道具	374.png
+374	机关士兵的零件	からくり兵の部品	Globular Pistotron	道具	374.png
 375	爱丽的设计图与零件	エリーの設計図と部品	Blueprints and Spare Part	重要道具	375.png
 376	帕米拉的秘药	パミラのひやく	Palmela's Prescription	重要道具	376.png
 377	恩泽葡萄汁	グレイプのグラス	Spirit of the Dance	重要道具	377.png
@@ -407,8 +407,8 @@ DRAGON QUEST VII Reimagined item ID by Ruimusume（露易娘）
 403	耳环宝石	ピアスの宝石	Ear Stones	重要道具	403.png
 404	鼻翼宝石	ノーズの宝石	Nose Stone	重要道具	404.png
 405	圣风的光球	聖風の光球	Aeolus Globe	重要道具	405.png
-406	空瓶	空のビン	Empty Bottle	重要道具	370.png
-407	装满水的瓶子	水で満たされたビン	Bottle of Water	重要道具	369.png
+406	空瓶	空のビン	Empty Bottle	道具	370.png
+407	装满水的瓶子	水で満たされたビン	Bottle of Water	道具	369.png
 408	给国王的信	王ヘの書状	Letter to the King	重要道具	379.png
 409	太阳石戒指	太陽石の指輪	Sunstone Ring	重要道具	409.png
 410	盗贼的钥匙	とうぞくのカギ	Thief's Key	重要道具	410.png
@@ -495,7 +495,7 @@ DRAGON QUEST VII Reimagined item ID by Ruimusume（露易娘）
 491	金色神奇石板7	ふしぎな石版・金７	Gold Fragment 7	重要道具	430.png
 492	金色神奇石板8	ふしぎな石版・金８	Gold Fragment 8	重要道具	430.png
 493	小徽章	ちいさなメダル	Mini Medal	重要道具	431.png
-494	小徽章笔记	メダル手帳	Medal Album	重要道具	432.png
+494	小徽章笔记	メダル手帳	Medal Album	系统固有	432.png
 495	特别会员证	特別会員証	VIP Pass	重要道具	433.png
 496					
 497					
