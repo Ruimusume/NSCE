@@ -1,2 +1,0 @@
-csharp
-public class Dummy { }
