@@ -382,8 +382,8 @@ DRAGON QUEST VII Reimagined item ID by Ruimusume（露易娘）
 378	大地铃铛	大地の鈴	Chimes of the Chosen	重要道具	378.png
 379	基法的信	キーファの手紙	Kiefer's Letter	重要道具	379.png
 380	达玛水晶	ダーマの水晶	Career Sphere	重要道具	380.png
-381	魔法地毯	魔法のじゅうたん	Flying Carpet	重要道具	381.png
-382	魔法地毯※	魔法のじゅうたん※	Flying Carpet※	重要道具	381.png
+381	魔法地毯（假）	魔法のじゅうたん（偽物）	Flying Carpet(fake)	重要道具	381.png
+382	魔法地毯	魔法のじゅうたん	Flying Carpet	重要道具	381.png
 383	沙漠护身符	さばくのお守り	Seal of the Sands	重要道具	383.png
 384	古代化石	古代の化石	Ancient Skull	重要道具	384.png
 385	提拉诺斯的骨头	ティラノスのほね	Serpent's Skull	重要道具	385.png
