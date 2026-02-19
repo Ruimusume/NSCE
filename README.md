@@ -12,7 +12,7 @@ NSCE直连Switch，可以实现即时修改的电脑端工具！
 - 如果你不知道怎么安装可使用[大气层整合包](https://github.com/Ruimusume/Atmosphere-fix/releases/tag/atmosphere_sys-botbase_fix)解决；
 
 1.下载[sys-botbase.zip](https://github.com/olliz0r/sys-botbase/releases)，解压文件放入大气层文件夹里；<br>
-2.电脑端安装[.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)环境运行NSCE。<br>
+2.电脑端安装[.NET Desktop Runtime 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)环境运行NSCE。<br>
 3.必须先打开游戏！<br>
 4.NSCE上输入Switch连接的IP地址，点击连接即可使用。<br>
 <div align="center"><img src="https://github.com/Ruimusume/NSCE/blob/main/img/NCCE01.png?raw=true"></div>
