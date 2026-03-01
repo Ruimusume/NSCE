@@ -5,7 +5,7 @@ It can make using cheats on Switch more convenient.The full name is Nintendo Swi
 ## Use
 0.Requires a hacked Switch console running either [sys-botbase](https://github.com/olliz0r/sys-botbase/releases).<br>
 1.Download [sys-botbasezip](https://github.com/olliz0r/sys-botbase/releases), extract the file and place it in the Atmosphere folder;<br>
-2.Install [.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) to run the NSCE client.<br>
+2.Install [.NET Desktop Runtime 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) to run the NSCE client.<br>
 3.You must first run and open the game!<br>
 4.Input the IP address of the Switch link, click on the link to start cheating.<br>
 <div align="center"><img src="https://github.com/Ruimusume/NSCE/blob/main/img/NCCE01.png?raw=true"></div>
