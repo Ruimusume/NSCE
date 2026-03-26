@@ -42,7 +42,6 @@ NSCE直连Switch，可以实现即时修改的电脑端工具！
 ## 制作人员
 - 露易娘 [https://ruisan.blog.jp/](https://ruisan.blog.jp/)
 - Gamer小诚 [https://kook.vip/k1n7ot](https://kook.vip/k1n7ot)
-- 寻找光玉的悠然 [https://space.bilibili.com/2629261](https://space.bilibili.com/2629261)
 
 ## QQ交流群
 <div align="center"><table style="text-align: center" width="150">
